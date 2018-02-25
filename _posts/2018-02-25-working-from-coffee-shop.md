@@ -12,6 +12,11 @@ I have been trying working from cafe for the past couple of weeks. Since I have 
 
 I must say that it has been a good decision so far. I am of the kind that gets distracted unless I am in an environment with constraints. By constraints I mean that if I have ample resources available, I end up procrastinating. But if I have limited time or limited freedom, I end up being very productive. 
 
+<figure>
+  <img src="https://res.cloudinary.com/vishnupadmanabhan/image/upload/v1519534742/coffee2.jpg" alt="Agile">
+  <figcaption><a href="https://www.zomato.com/bangalore/the-roastery-kalyan-nagar" target="_blank">Mocha at The Roastery</a></figcaption>
+</figure>
+
 This is why cafe working suits my working style. I like getting things done early during the day. This is because usually you cannot predict how the day goes in spite of best of your plans. So it is safe to finish important tasks in the morning. For this reason, I tend to wake up early on weekends as well and head out to the cafe right around the opening time.
 
 My favourite cafe is The Roastery which is around 10 mins drive from my house on a weekend. I say "on a weekend" because the traffic is generally less on weekends. I love this place because not only do they serve the best coffee in the town, but they have great ambience as well. Soft jazz music, that lovely smell of coffee and sparkling clean interiors. Perfect combination.
