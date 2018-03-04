@@ -88,7 +88,7 @@ Yes, all this looks a little cryptic if you have never looked into shell scripts
 
 There are some stuff you might or might not need here.  If you need a minimalist terminal, you can get rid of the user and host details, to some extent, the current path details and modify it in a way that only the current working directory is visible along with the prompt.
 
-Let us start by modifying the title. I like to keep something like `Git-Bash` with the current working directory in the title. For this, remove `$TITLEPREFIX` from the line `PS1='\[\033]0;$TITLEPREFIX:${PWD//[^[:ascii:]]/?}\007\]'` and add something like this `PS1='\[\033]0;Git-Bash: ${PWD//[^[:ascii:]]/?}\007\]'`. This will change the title to "Git-Bash: <path to current working directory>".
+Let us start by modifying the title. I like to keep something like `Git-Bash` with the current working directory in the title. For this, remove `$TITLEPREFIX` from the line `PS1='\[\033]0;$TITLEPREFIX:${PWD//[^[:ascii:]]/?}\007\]'` and add something like this `PS1='\[\033]0;Git-Bash: ${PWD//[^[:ascii:]]/?}\007\]'`. This will change the title to "Git-Bash: path to current working directory".
 
 Next, remove the whole `if` section since we have added a custom title:
 
