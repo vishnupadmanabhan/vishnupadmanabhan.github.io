@@ -4,7 +4,7 @@ title: "A Podcasting Primer"
 excerpt: "So, finally a podcast. Here is what is behind the scenes"
 banner: http://res.cloudinary.com/vishnupadmanabhan/image/upload/v1504505647/podcast/podcast.jpg
 author: "Vishnu"
-date: 2018-00-13 00:01:00
+date: 2018-03-13 00:01:00
 categories: Podcasting
 comments: true
 ---
