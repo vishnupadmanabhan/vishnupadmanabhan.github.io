@@ -30,15 +30,15 @@ Microphones are one of the primary requirements for recording a podcast. Though 
 
 If you are really on a tight budget and do not want to invest in expensive microphones or just want to test if podcasting is for you before you start investing, inexpensive headsets or your phone microphone would do but at the expense of quality. Now, if you made up your mind to get a real microphone, there are few different kind of microphones. Broadly, they can be classified as **Condenser Microphones** and **Dynamic Microphones**. 
 
-- **Condenser Microphones**: Condenser Microphones have an electrically-charged diaphragm assembly which forms a sound-sensitive capacitor. Sound waves hit a very thin metal or metal-coated-plastic diaphragm and result in vibration. Condenser microphones are usually very sensitive and catch lot of background noise. Unless you have sound proofing done to your room, these are not very well suited for podcasting. They also tend to be a bit more expensice and fragile.
+- **Condenser Microphones**: Condenser Microphones have an electrically-charged diaphragm assembly which forms a sound-sensitive capacitor. Sound waves hit a very thin metal or metal-coated-plastic diaphragm and result in vibration. Condenser microphones are usually very sensitive and catch lot of background noise. Unless you have sound proofing done to your room, these are not very well suited for podcasting. They also tend to be a bit more expensice and fragile. We used Samson Meteor mic a condenser mic, to record first few episodes of out podcast. Since we had only one mic, we had to keep it on the table trying to record both our voices. Since Condenser mic has a higher sensitivity, it was all good. But this also meant that I could hear the spoon falling in my neighbour's house. So we decided to abondon it and go with dynamic mics. I live in a relatively quiet area, but it still caught a lot of ambient noise which wasn't helping.
 
-- **Dynamic Microphones**: Dynamic microphones have a diaphragm coil assembly which forms a sound-driven electrical generator. Sound waves strike a thin plastic diaphragm which vibrates. A coil of wire is attached to the behind the diaphragm and vibrates with it. The voice coil in a magnetic field created by a permanent magnet. The motion of the voice coil in this magnetic field generates the electrical signal corresponding to the sound. Dynamic microphones have simple construction and are economical and rugged. They can provide excellent sound quality and do not catch background noise as much a condenser microphones.
+- **Dynamic Microphones**: Dynamic microphones have a diaphragm coil assembly which forms a sound-driven electrical generator. Sound waves strike a thin plastic diaphragm which vibrates. A coil of wire is attached to the behind the diaphragm and vibrates with it. The voice coil in a magnetic field created by a permanent magnet. The motion of the voice coil in this magnetic field generates the electrical signal corresponding to the sound. Dynamic microphones have simple construction and are economical and rugged. They can provide excellent sound quality and do not catch background noise as much a condenser microphones. Once we decided to move over to dynmic mic from condenser, there was a remarkable improvement in our sound quality as most of the background noise was rejected. I got a couple of [Knox KN-UM01 XLR/USB](https://www.amazon.com/dp/B012BAX738){:target="blank"} mics imported from US and it was the best decision I made.
 
 Microphones are also classified according to the way they connect to your computer as **USB Microphones** and **XLR Microphones**. Let's take a look at each of these.
 
-- **USB Microphones**: USB microphones can be a condenser microphone or an dynamic microphone that connects to computer directly through a USB port. This type of micropphone is typically easier to set up and can connect directly to the computer without a mixer or audio interface. This is popular with solo podcasters where they can just directly connect it to a laptop or computer and start recording.
+- **USB Microphones**: USB microphones can be a condenser microphone or an dynamic microphone that connects to computer directly through a USB port. This type of micropphone is typically easier to set up and can connect directly to the computer without a mixer or audio interface. This is popular with solo podcasters where they can just directly connect it to a laptop or computer and start recording. Overall they have a more "real" reporduction of the sound but you need a well sound proofed room to be able to use this effectively.
 
-- **XLR Microphones**: XLR microphones have XLR ports instead of USB port. These kind of mics require an audio interface or mixer of some sort to connect to computer. XLR mics usually produce better quality sound than a normal USB microphone.
+- **XLR Microphones**: XLR microphones have XLR ports instead of USB port. These kind of mics require an audio interface or mixer of some sort to connect to computer. XLR mics usually produce better quality sound than a normal USB microphone. The Knox mic that we use has both USB and XLR connectors.
 
 ### Recording Devices
 A recording device captures the sound from the microphone and converts the signal to mp3 or wav format. A computer can be the recording device through USB or line in or it can be a dedicated recorder. Some examples for digital recorders are Zoom series (H1 through H6) and Roland recorders.
@@ -57,18 +57,19 @@ If a hardware mixer is out of your budget, there are few software mixers too. On
  <figcaption>Voicemeeter app</figcaption>
 </figure>
 
-Mixers let you control many parameters in the signal like controlling the gain, the low end and high end frequencies, compression etc. 
+Voicemeeter runs in your computer and helps in adjusting the various parameters on the input signal. I used voicemeeter for few of my episodes and the sound quaity was amazing.
 
 ### Audio interface/Sound card
-Apart from using mixers, audio recording can be done using audio interfaces as well. These are usually used for music production and provide a way to interface your microphone with PC or Mac.
+Apart from using mixers, audio recording can be done using audio interfaces as well. These are usually used for music production and provide a way to interface your microphone with PC or Mac. Essencially they connect your recording device (mic) to computer without all the bells and whistles of a traditional mixer
 
 #### Recording application
+Once you hook up your recording device with your computer, you need some sort of software to be able to record. I use Audacity which is one of the best open source and free softwares out there. Audacity can even be used for professional editing and has a very good arsenal of editing effects and plugins. By default it does not let you export to mp3 but this is taken care easily by installing a plugin called _lame_ for Audacity, yeah that is what it is called :wink:
 <figure>
  <img src="http://res.cloudinary.com/vishnupadmanabhan/image/upload/v1504518166/podcast/audacity.jpg" alt="Audacity">
  <figcaption>Audacity</figcaption>
 </figure>
 
-
+But AUdacity is not the only one. If you are on a Mac, you can use Garageband or you can pay and get a subscription of Adobe Audition.
 
 ### Platform
 In this section we'll talk about the various platforms on which you can host, serve and promote your podcast. Basically any podcast requires a website where listeners can find the episodes, listen to them and download them if required and also read the show notes and other information related to your podcast, a hosting provider where you host the audio files which is usually different server than the one that serves your website and lastly a channel to promote and make your podast available to listenrs around the world.
