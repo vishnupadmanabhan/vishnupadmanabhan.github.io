@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 <div class="center">
-    <img class="circle responsive-img center" src="http://res.cloudinary.com/vishnupadmanabhan/image/upload/v1491302323/favicon.jpg" style="float: left; margin: 5px 20px 5px 0; width: 150px; height: 150px;">
+    <img class="circle responsive-img center" src="https://res.cloudinary.com/writerandgeek/image/upload/v1521285174/pp.jpg" style="float: left; margin: 5px 20px 5px 0; width: 150px; height: 150px;">
 </div>     
 Hello, I am Vishnu and this is my personal tech blog. A site where I chronicle my coding stuff and my personal opinions on tech related stuff. I also have another website which I think of as an online magazine - [neoelemento](http://neoelemento.com){:target="_blank"} where I post about general life and productivity tips. But I consider this site to be my personal website as it is more closely related to my passion - programming.
 
