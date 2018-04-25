@@ -18,5 +18,5 @@ So it was nothing less of a surprise and shock when I saw his message saying he 
 Anyway, it all went well and I was able to share some of my experiences and he has graciously published the interview on his channel. Please give it a watch:
 
 <div class="embed-responsive embed-responsive-16by9">
-    <iframe src="hhttps://www.youtube.com/embed/t5V6uwVOgy0?rel=0&amp;showinfo=0" frameborder="0"></iframe>
+    <iframe src="https://www.youtube.com/embed/t5V6uwVOgy0?rel=0&amp;showinfo=0" frameborder="0"></iframe>
 </div>
