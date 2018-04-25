@@ -4,7 +4,7 @@ title: "Interviewed by The ShanMan on Podcasting"
 excerpt: "So, finally I gave an interview on podcasting."
 banner: http://res.cloudinary.com/vishnupadmanabhan/image/upload/v1504505647/podcast/podcast.jpg
 author: "Vishnu"
-date: 2018-04-26 00:01:00
+date: 2018-04-25 00:01:00
 categories: Podcasting
 comments: true
 ---
