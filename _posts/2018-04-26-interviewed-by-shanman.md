@@ -8,7 +8,7 @@ date: 2018-04-25 00:01:00
 categories: Podcasting
 comments: true
 ---
-### Podcasting
+### The Interview
 I've been podcasting at [Writer & Geek Show](https://writerndgeek.com){:target="_blank"} since Jun 2017. In doing so, I have researched a lot on the internet about podcasting. From the equipments required to the format and how long the episode should be - everything was a part of my research. Google, YouTube, blogs, I've been to countless sources trying to extract the last drops of knowledge on podcasting.
 
 I was most satisfied with YouTube. I watched many videos on podcasting style, audio editing tutorials, microphone reviews etc. One channe in particular ended up being my favourite and that was run by [ShanMan](). He has very detailed and comprehensive videos related many different aspects of podcasting and he is a radio broadcaster by profession. Radio is one of my favourite things and it was fascinating to see him share his experiences and expertise in the channel. I was hooked.
