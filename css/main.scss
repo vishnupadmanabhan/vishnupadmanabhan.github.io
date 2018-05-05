@@ -2,12 +2,15 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "fonts",
         "bootstrap",
         "syntax-highlighting"
 ;
+
+$green: rgb(60, 201, 60);
 
 body {
     font-family: 'Josefin Sans', sans-serif;
@@ -56,7 +59,7 @@ p code {
     // background: url('http://res.cloudinary.com/neoelemento/image/upload/v1464982113/blog/passion-min.jpg') center 30%;
     background: url('https://res.cloudinary.com/vishnupadmanabhan/image/upload/v1523635239/coffee_cheesecake_crop.jpg') center 30%;
     background-size: cover;
-    border-bottom: 10px solid rgb(60, 201, 60);
+    border-bottom: 10px solid $green;
     color: white;
     margin-bottom: 75px;
     border-radius: 0;
@@ -64,7 +67,7 @@ p code {
 
 .container-fluid .jumbotron-single {
     min-height: 325px;
-    border-bottom: 10px solid rgb(60, 201, 60);
+    border-bottom: 10px solid $green;
     background-color: #1b1b25;
     color: white;
     margin-bottom: 10px;
@@ -78,7 +81,7 @@ p code {
 }
 
 .single-article {
-    border-bottom: 3px solid rgb(60, 201, 60);
+    border-bottom: 3px solid $green;
     margin-bottom: 25px;
     padding-bottom: 25px;
 }
@@ -200,7 +203,7 @@ p code {
         font-family: 'Josefin Sans', sans-serif;
         font-style: italic;
         font-weight: 300;
-        border-left: 3px solid rgb(60, 201, 60);
+        border-left: 3px solid $green;
 
         p {
             font-size: 1.6rem;
@@ -319,7 +322,7 @@ footer .disclaimer {
 
 .copyright, .copyright-link {
     text-align: center;
-    color: rgb(60, 201, 60) !important;
+    color: $green !important;
     font-size: 1.2rem;
 }
 
@@ -402,7 +405,7 @@ li.search-list {
 
 .btn-green {
     color: #1b1b25;
-    background-color: rgb(60, 201, 60);
+    background-color: $green;
     border-color: #5cb85c;
 }
 
