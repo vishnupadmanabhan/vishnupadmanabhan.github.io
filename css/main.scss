@@ -416,7 +416,7 @@ li.search-list {
 }
 
 .pagination>li>a, .pagination>li>span {
-    color: #5cb85c;
+    color: $green;
 }
 
 ul {
@@ -443,7 +443,7 @@ a, a:hover, a:active, a:focus {
 }
 
 a, a:hover, a:visited, a:active, a:focus {
-    color: #5cb85c;
+    color: $green;
     text-decoration: none;
 }
 
