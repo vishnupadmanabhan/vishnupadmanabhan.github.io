@@ -2,7 +2,7 @@
 layout: post
 title:  "After a year or so"
 excerpt: "You always gravitate to what you love, or so I think"
-banner: https://res.cloudinary.com/vishnupadmanabhan/image/upload/c_crop,h_250,w_250/v1518632459/code.png
+banner: https://res.cloudinary.com/vishnupadmanabhan/image/upload/v1526152419/work_coffee.jpg
 author: "Vishnu"
 date:   2018-02-15 00:00:10
 categories: Programming
