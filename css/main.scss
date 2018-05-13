@@ -81,7 +81,6 @@ p code {
 }
 
 .single-article {
-    border-bottom: 3px solid $green;
     margin-bottom: 25px;
     padding-bottom: 25px;
 }
@@ -294,6 +293,9 @@ p code {
   display: block;
   width: auto;
   overflow: hidden;
+  border-bottom: 2px solid $green;
+  margin-bottom: 30px;
+  padding-bottom: 20px;
 }
 
 .PageNavigation a {
