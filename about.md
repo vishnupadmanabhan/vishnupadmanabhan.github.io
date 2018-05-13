@@ -5,7 +5,7 @@ title: About
 <div class="center">
     <img class="circle responsive-img center" src="https://res.cloudinary.com/writerandgeek/image/upload/v1521285174/pp.jpg" style="float: left; margin: 5px 20px 5px 0; width: 200px; height: 200px;">
 </div>     
-Hello, I am Vishnu and this is my personal tech blog. A site where I chronicle my coding stuff and my personal opinions on tech related stuff. I write some other [articles](http://vishnupadmanabhan.com/articles){:target="_blank"} as well where I post about general life and productivity tips. But I consider this site to be my personal website as it is more closely related to my passion - podcasting &amp; programming.
+Hello, I am Vishnu and this is my personal tech blog. A site where I chronicle my coding stuff and my personal opinions on tech related stuff. I write some other [articles](http://vishnupadmanabhan.com/articles){:target="_blank"} as well where I post about some deeper topics. But I consider this site to be my personal website as it is more closely related to my passion - podcasting &amp; programming.
 
 I have been working in the tech industry since I graduated college and been coding before my college days. Over my career, I have worked with big corporations and startup companies, been a part of big teams and have led small teams as well. My various roles have given me exposure to **full-stack development**, **project management** and **UI designing**.
 
