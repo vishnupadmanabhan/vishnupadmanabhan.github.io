@@ -37,11 +37,10 @@ layout: default
                 {% endif %}
             </div>           
         
-            <div class="col-md-6 col-md-offset-3">
-                {% if page.comments %}
-                <div id="disqus_thread"></div>
-                {% endif %}
-            </div>
+
+            {% if page.comments %}
+            <div id="disqus_thread"></div>
+            {% endif %}
         </article>
         <aside class="col-md-3 col-md-offset-1 post-body">
             <img class="circle responsive-img center" src="https://res.cloudinary.com/writerandgeek/image/upload/v1521285174/pp.jpg" style="width: 100%;" alt="">
