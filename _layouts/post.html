@@ -7,7 +7,7 @@ layout: default
         <div class="jumbotron-single">
             <div class="col-md-8 col-md-offset-2">
                 <div class="col-md-3">
-                    <img src="{{ post.banner }}" alt="{{ post.title }}" class="post-featured-img visible-lg visible-md">
+                    <img src="{{ page.banner }}" alt="{{ page.title }}" class="post-featured-img visible-lg visible-md">
                 </div> 
                 <div class="col-md-9">
                     <h1 class="post-title-single">{{ page.title }}</h1>
@@ -15,7 +15,8 @@ layout: default
                     <p class="post-meta">Posted in {% for category in page.categories %}<a href="/archives/#{{ category }}">{{ category }}</a>{% if forloop.last == false %}, {% endif %}{% endfor %}
                         on {{ page.date | date: "%B %d, %Y" }}</p>
                 </div>
-            </div>               
+            </div> 
+            <div class="clearfix"></div>               
         </div>
     </div>
 </div>
