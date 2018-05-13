@@ -4,12 +4,17 @@ layout: default
 
 <div class="container-fluid">
     <div class="row">
-        <div class="jumbotron-single text-center">
+        <div class="jumbotron-single">
             <div class="col-md-8 col-md-offset-2">
-                <h1 class="post-title-single">{{ page.title }}</h1>
-                <!--<h3 class="post-desc-single">{{ page.excerpt }}</h3>-->
-                <p class="post-meta">Posted in {% for category in page.categories %}<a href="/archives/#{{ category }}">{{ category }}</a>{% if forloop.last == false %}, {% endif %}{% endfor %}
-                  on {{ page.date | date: "%B %d, %Y" }}</p>
+                <div class="col-md-3">
+                    <img src="{{ post.banner }}" alt="{{ post.title }}" class="post-featured-img visible-lg visible-md">
+                </div> 
+                <div class="col-md-9">
+                    <h1 class="post-title-single">{{ page.title }}</h1>
+                    <!--<h3 class="post-desc-single">{{ page.excerpt }}</h3>-->
+                    <p class="post-meta">Posted in {% for category in page.categories %}<a href="/archives/#{{ category }}">{{ category }}</a>{% if forloop.last == false %}, {% endif %}{% endfor %}
+                        on {{ page.date | date: "%B %d, %Y" }}</p>
+                </div>
             </div>               
         </div>
     </div>
@@ -17,7 +22,7 @@ layout: default
 
 <section class="container-fluid">
     <div class="row">
-        <article class="col-md-6 col-md-offset-3 single-article">
+        <article class="col-md-6 col-md-offset-1 single-article">
             <div class="post-body">
                 {{ content }}
             </div>
@@ -30,11 +35,28 @@ layout: default
                     <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
                 {% endif %}
             </div>           
+        
+            <div class="col-md-6 col-md-offset-3">
+                {% if page.comments %}
+                <div id="disqus_thread"></div>
+                {% endif %}
+            </div>
         </article>
-        <div class="col-md-6 col-md-offset-3">
-            {% if page.comments %}
-            <div id="disqus_thread"></div>
-            {% endif %}
-        </div>
+        <aside class="col-md-3 col-md-offset-1 post-body">
+            <h3 class="title-about">About Me</h3>
+            <!--<hr>
+            <img src="https://avatars3.githubusercontent.com/u/10347504?v=3&s=150" alt="">-->
+            <hr>
+            <p>
+                I am a <a href="https://writerandgeek.com" target="_blank">blogger</a>, programmer, program manager and coffee enthusiast. This is my blog where I post stuff related to web technologies, podcasting and life in general. I co-host a podcast at <a href="https://writerandgeek.com">Writer &amp; Geek Show</a> and I write some <a href="http://vishnupadmanabhan.com/articles">articles</a> about life. More about me <a href="/about">here</a>.
+            </p> 
+            <hr>
+            <ul class="social_links list-inline">
+                <li><a href="https://twitter.com/neoelemento" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                <li><a href="http://vishnupadmanabhan.com"><i class="fa fa-globe"></i></a></li>
+                <li><a href="https://instagram.com/neoelemento" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                <li><a tabindex="0" role="button" data-toggle="popover" data-placement="bottom" data-trigger="focus" data-content="vp@<thisdomain>"><i class="fa fa-envelope-o"></i></a></li>
+            </ul>     
+        </aside>
     </div>
 </section>
