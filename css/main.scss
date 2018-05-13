@@ -198,6 +198,10 @@ p code {
         align-self: center;
     }
 
+    .post-body aside img:not(.emoji) {
+        margin: 0 auto;
+    }
+
     ul li, ol li {
         font-family: 'Josefin Sans', sans-serif;
         font-size: 1.8rem;
