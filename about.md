@@ -15,4 +15,6 @@ In my day job I work as a Program Manager and by night I am a programmer and blo
 
 >Ever loved someone so much, you would do anything for them? Yeah, well make that someone yourself and do whatever the hell you want.<br> - Harvey Specter (Suits)
 
+Why that quote? I love it, and Harvey is cool!
+
 Currently, I am into JavaScript, ASP.NET and CSS. My posts will be reflecting my learning on these technologies. Besides this, I play the guitar and a self-confessed foodie. I love reading and spend hours reading and researching stuff and not always necessarily on technology.
