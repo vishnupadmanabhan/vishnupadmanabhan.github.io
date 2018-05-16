@@ -30,6 +30,10 @@ I reach around 10:00 am at the cafe and take my laptop and phone with me and not
 
 Also being in the coffee house, I do not have access to things that might distract me at home, my couch for example. Since I have to make most of my time there, I remain focused. Also, cafe provides a good change of scenery. Sometimes I am more productive when I am away from my desk working from a new place.
 
+One moment, sorry to barge in. Here is an episode we did on Coffee :wink:
+
+<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/f424d1e8?color=f5f5f5' width='100%'></iframe>
+
 There are other people who come to the cafe to get things done as well which motivates me to do the same. They all seem focused, except few teenagers who come only to hang out which is fine! Biggest advantage is that I can order amazing coffee anytime.
 
 If you are planning to work from a cafe, here are some of the things to keep in mind:
