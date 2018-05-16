@@ -34,6 +34,8 @@ One moment, sorry to barge in. Here is an episode we did on Coffee :wink:
 
 <iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/f424d1e8?color=f5f5f5' width='100%'></iframe>
 
+Moving right on...
+
 There are other people who come to the cafe to get things done as well which motivates me to do the same. They all seem focused, except few teenagers who come only to hang out which is fine! Biggest advantage is that I can order amazing coffee anytime.
 
 If you are planning to work from a cafe, here are some of the things to keep in mind:
