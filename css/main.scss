@@ -11,10 +11,11 @@
 ;
 
 $green: rgb(60, 201, 60);
+$font-size: 20px;
 
 body {
     font-family: 'Josefin Sans', sans-serif;
-    font-size: 20px;
+    font-size: $font-size;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
@@ -24,7 +25,7 @@ body {
 }
 
 .navbar-brand {
-    font-size: 1.8rem;
+    font-size: $font-size;
 }
 
 main {
@@ -180,7 +181,7 @@ p code {
 
     p {
         font-family: 'Josefin Sans', sans-serif;
-        font-weight: 20px;
+        font-size: $font-size;
         // font-size: 1.8rem;
         line-height: 1.6;
         word-spacing: .4rem;
@@ -194,7 +195,7 @@ p code {
 
     img:not(.emoji) {
         max-width: 100%;
-        margin: 30px auto;
+        margin: 30px 0;
         display: flex;
         align-self: center;
     }
@@ -205,7 +206,7 @@ p code {
 
     ul li, ol li {
         font-family: 'Josefin Sans', sans-serif;
-        font-size: 1.8rem;
+        font-size: $font-size;
         line-height: 1.6;
         word-spacing: .4rem;
         font-weight: 400;
@@ -232,7 +233,7 @@ p code {
 
     table {
         font-family: 'Josefin Sans', sans-serif;
-        font-size: 1.8rem;
+        font-size: $font-size;
         line-height: 1.6;
         word-spacing: .4rem;
         font-weight: 400;
