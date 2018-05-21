@@ -24,10 +24,11 @@ body {
 
 .navbar{
     border-radius: 0;
-}
+    font-family: $sans-serif;
 
 .navbar-brand {
     font-size: $font-size;
+    font-family: $sans-serif;
 }
 
 main {
@@ -91,33 +92,39 @@ p code {
 .post-title {
     font-weight: 700;
     text-transform: uppercase;
+    font-family: $sans-serif;
 }
 
 .post-title-single {
     font-weight: 700;
     text-transform: uppercase;
     font-size: 5rem;
+    font-family: $sans-serif;
 }
 
 .post-desc {
     font-size: 2.2rem;
     font-weight: 700;
+    font-family: $sans-serif;
 }
 
 .post-desc-single {
     font-size: 2.8rem;
     font-weight: 700;
+    font-family: $sans-serif;
 }
 
 .post-meta {
     font-weight: 700;
     text-align: center;
+    font-family: $sans-serif;
 }
 
 .post-category {
     font-weight: 700;
     text-transform: uppercase;
     border-bottom: 2px solid #5cb85c;
+    font-family: $sans-serif;
 }
 
 .post-featured-img {
@@ -129,6 +136,7 @@ p code {
    font-size: 1.4rem;
    font-style: italic;
    font-weight: 700; 
+   font-family: $sans-serif;
 }
 
 .post-meta img {
@@ -145,6 +153,7 @@ p code {
    font-size: 1.4rem;
    font-style: italic;
    font-weight: 700; 
+   font-family: $sans-serif;
 }
 
 .post-body {
@@ -157,6 +166,7 @@ p code {
         font-weight: 700;
         text-transform: uppercase;
         margin-top: 3rem;
+        font-family: $sans-serif;
     }
 
     h2 {
@@ -164,21 +174,25 @@ p code {
         font-weight: 700;
         text-transform: uppercase;
         margin-top: 3rem;
+        font-family: $sans-serif;
     }
 
     h3 {
       font-size: 3.2rem;
       font-weight: 700;
+      font-family: $sans-serif;
     }
     
     h4 {
       font-size: 2.8rem;
       font-weight: 700;
+      font-family: $sans-serif;
     }
     
     h5 {
       font-size: 2.6rem;
       font-weight: 700;
+      font-family: $sans-serif;
     }
 
     p {
@@ -304,6 +318,7 @@ p code {
   border-bottom: 2px solid $green;
   margin-bottom: 30px;
   padding-bottom: 20px;
+  font-family: $sans-serif;
 }
 
 .PageNavigation a {
@@ -311,6 +326,7 @@ p code {
   width: 33.33333333%;
   float: left;
   margin: 1em 0;
+  font-family: $sans-serif;
 }
 
 .PageNavigation .back_home {
@@ -328,6 +344,7 @@ p code {
 
 .footer-container{
     background-color: #1b1b25;
+    font-family: $sans-serif;
 }
 
 .footer-content {
@@ -339,15 +356,18 @@ p code {
 
 footer .disclaimer {
     color: tomato;    
+    font-family: $sans-serif;
 }
 
 .copyright, .copyright-link {
     text-align: center;
     color: $green !important;
     font-size: 1.2rem;
+    font-family: $sans-serif;
 }
 
 footer .social-links ul {
+    font-family: $sans-serif;
     margin-top: 20px;
     display: flex;
     justify-content: center;
@@ -368,6 +388,7 @@ form.main_search {
         border-radius: 0;
         background-color: #fff;
         box-shadow: none;
+        font-family: $sans-serif;
     }
 
     button.btn {
@@ -386,6 +407,7 @@ form.main_search {
 ul.social_links {
     display: flex;
     justify-content: space-around;
+    font-family: $sans-serif;
 
     a, a:hover, a:visited, a:focus, a:active {
         color: #363636;
@@ -396,11 +418,12 @@ form.main_search {
     input.form-control:focus {
         box-shadow: none;
         outline: none;
+        font-family: $sans-serif;
     }
 }
 
 ul#search-results li, ul#search-results li p {
-    font-family: $serif;
+    font-family: $sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
@@ -414,6 +437,7 @@ li.search-list {
 .navbar-default {
     background-color: #fff;
     border-color: #e7e7e7;
+    font-family: $sans-serif;
 }
 
 .navbar-form {
