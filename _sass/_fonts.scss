@@ -1,3 +1,79 @@
+/* Caslon */
+@font-face {
+	font-family: 'Adobe Caslon Pro';
+	src: url('../font/Caslon/ACaslonPro-BoldItalic.eot');
+	src: url('../font/Caslon/ACaslonPro-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../font/Caslon/ACaslonPro-BoldItalic.svg#ACaslonPro-BoldItalic') format('svg'),
+		url('../font/Caslon/ACaslonPro-BoldItalic.woff2') format('woff2'),
+		url('../font/Caslon/ACaslonPro-BoldItalic.woff') format('woff'),
+		url('../font/Caslon/ACaslonPro-BoldItalic.ttf') format('truetype');
+	font-weight: bold;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Adobe Caslon Pro';
+	src: url('../font/Caslon/ACaslonPro-Bold.eot');
+	src: url('../font/Caslon/ACaslonPro-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../font/Caslon/ACaslonPro-Bold.svg#ACaslonPro-Bold') format('svg'),
+		url('../font/Caslon/ACaslonPro-Bold.woff2') format('woff2'),
+		url('../font/Caslon/ACaslonPro-Bold.woff') format('woff'),
+		url('../font/Caslon/ACaslonPro-Bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Adobe Caslon Pro';
+	src: url('../font/Caslon/ACaslonPro-Regular.eot');
+	src: url('../font/Caslon/ACaslonPro-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../font/Caslon/ACaslonPro-Regular.svg#ACaslonPro-Regular') format('svg'),
+		url('../font/Caslon/ACaslonPro-Regular.woff2') format('woff2'),
+		url('../font/Caslon/ACaslonPro-Regular.woff') format('woff'),
+		url('../font/Caslon/ACaslonPro-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Adobe Caslon Pro';
+	src: url('../font/Caslon/ACaslonPro-Semibold.eot');
+	src: url('../font/Caslon/ACaslonPro-Semibold.eot?#iefix') format('embedded-opentype'),
+        url('../font/Caslon/ACaslonPro-Semibold.svg#ACaslonPro-Semibold') format('svg'),
+		url('../font/Caslon/ACaslonPro-Semibold.woff2') format('woff2'),
+		url('../font/Caslon/ACaslonPro-Semibold.woff') format('woff'),
+		url('../font/Caslon/ACaslonPro-Semibold.ttf') format('truetype');		
+	font-weight: 600;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Adobe Caslon Pro';
+	src: url('../font/Caslon/ACaslonPro-SemiboldItalic.eot');
+	src: url('../font/Caslon/ACaslonPro-SemiboldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../font/Caslon/ACaslonPro-SemiboldItalic.svg#ACaslonPro-SemiboldItalic') format('svg'),
+		url('../font/Caslon/ACaslonPro-SemiboldItalic.woff2') format('woff2'),
+		url('../font/Caslon/ACaslonPro-SemiboldItalic.woff') format('woff'),
+		url('../font/Caslon/ACaslonPro-SemiboldItalic.ttf') format('truetype');
+	font-weight: 600;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Adobe Caslon Pro';
+	src: url('../font/Caslon/ACaslonPro-Italic.eot');
+	src: url('../font/Caslon/ACaslonPro-Italic.eot?#iefix') format('embedded-opentype'),
+        url('../font/Caslon/ACaslonPro-Italic.svg#ACaslonPro-Italic') format('svg'),
+		url('../font/Caslon/ACaslonPro-Italic.woff2') format('woff2'),
+		url('../font/Caslon/ACaslonPro-Italic.woff') format('woff'),
+		url('../font/Caslon/ACaslonPro-Italic.ttf') format('truetype');
+	font-weight: normal;
+	font-style: italic;
+}
+
+
+/* Josefin Sans */
+
 @font-face {
     font-family: 'Josefin Sans';
     src: url('../font/josefin/josefinsans-bold-webfont.eot');
