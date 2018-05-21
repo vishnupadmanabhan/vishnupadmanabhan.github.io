@@ -25,6 +25,7 @@ body {
 .navbar{
     border-radius: 0;
     font-family: $sans-serif;
+}
 
 .navbar-brand {
     font-size: $font-size;
@@ -504,4 +505,5 @@ h2 a, h2 a:hover, h2 a:visited, h2 a:active, h2 a:focus {
     text-decoration: none;
     margin-top: 15px;
     display: block;
+    font-family: $sans-serif;
 }
