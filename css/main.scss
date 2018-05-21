@@ -11,7 +11,7 @@
 ;
 
 $green: rgb(60, 201, 60);
-$font-size: 20px;
+$font-size: 22px;
 $serif: 'Adobe Caslon Pro', Georgia, serif;
 $sans-serif: 'Josefin Sans', sans-serif;
 
@@ -83,6 +83,7 @@ p code {
 .title-about {
     font-weight: 700;
     text-transform: uppercase;
+    font-family: $sans-serif;
 }
 
 .single-article {
@@ -200,7 +201,6 @@ p code {
         font-family: $serif;
         font-size: $font-size;
         // font-size: 1.8rem;
-        line-height: 1.6;
         word-spacing: .4rem;
         font-weight: 400;
         color: #666666;
