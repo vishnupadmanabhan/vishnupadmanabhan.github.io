@@ -80,6 +80,18 @@ p code {
     border-radius: 0;
 }
 
+.container-fluid .jumbotron-single::after {
+    content: "";
+    background: url('https://res.cloudinary.com/vishnupadmanabhan/image/upload/v1523635239/coffee_cheesecake_crop.jpg') center 30%;
+    opacity: 0.25;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1;   
+  }
+
 .title-about {
     font-weight: 700;
     text-transform: uppercase;
