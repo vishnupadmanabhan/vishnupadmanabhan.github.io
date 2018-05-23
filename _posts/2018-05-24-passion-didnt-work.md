@@ -24,38 +24,47 @@ After school, I went for a year's worth of coaching classes for engineering entr
 I would've felt like I won something had someone encouraged me back then but it didn't happen. My love for engineering started when my cousin bro decided to be one and fatefully I ended up in the same college. I remember how I entered my classroom with my left feet first, because in India right is considered auspicious. It was a small rebellious act from my side. Just for the heck of it. I hated college initially so concentrated on my studies. 
 
 The first year was good. But the second year was complete crap. I cannot convey the level of crap it was during the second year. The saying that you end up being the average of five people you spend your time with, ended up happening with me. I am not saying anyone forced me, but I lost all interest in studying. Now looking back, I also realise that I was going through a mild depression as well. Nothing interested me. Just finish classes, come back, throw the books to a corner, not to be touched till next morning. My dearest Renjith used to get the dinner and we had to share a plate since they get stolen a lot.
-
+<figure>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/neoelemento/42257502432/in/album-72157667270777237/" title="passion7"><img src="https://farm1.staticflickr.com/882/42257502432_094a436f10_b.jpg" width="800" alt="passion7"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <figcaption>Trying to be cool in college, I seldom was!</figcaption>
+</figure>
 
 This was around the time when we formed a band. Called ourselves "Noises". Yeah, I saw that cringe, never mind, the name was shit and we knew it. Just that we never bothered to change it. Our hostel-mates used to call us "nuisance" and I don't blame them. Who but a bunch of fucking retards would blast Metallica songs through a 15W guitar amp in the middle of the night? We did that. I wasn't okay about it most of the times, but when you are a group, you suppress your brain's voices and be cool like the others.
 
 I realised something during this time I realised that music is my **passion**. I learnt to play the guitar ( thanks Shyam! ) and was the lead vocalist and bass guitarist for my band. I still remember, there was a time that I believed that music is going to be our future and this crappy little band we had formed is going to be a roadshow some day. When I say "crappy" don't get me wrong. Though we never had any major shows except performing during farewell for seniors and other occasions. Once we did play in another college for a competition and won second place! Second place guys, can you believe it? Except that there were only three bands that played and one of them was disqualified. Sorry, this is not a _bird rising from ashes_ kind of a story. :wink:
-
+<figure>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/neoelemento/27435394227/in/album-72157667270777237/" title="passion3"><img src="https://farm1.staticflickr.com/959/27435394227_9e992674e1_z.jpg" width="604" alt="passion3"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <figcaption>Noises live!</figcaption>
-
+</figure>
+<figure>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/neoelemento/40498276370/in/album-72157667270777237/" title="passion6"><img src="https://farm1.staticflickr.com/873/40498276370_ab8fe4a1ed_z.jpg" width="640" alt="passion6"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <figcaption>Being the frontman. Circa 2008.</figcaption>
+</figure>
 
 I thought this will be my future, my passion was singing and playing the guitar. I did practice a lot during those days. But as days went by, my drive to continue practising kind of died. I practised only when there was a show coming up, which was once a year or so. So wasn't a big deal. I was sure the four of us were bandmates for life. As I write this today, I am in touch with only one of them and was the best man for his wedding and that was special. So that's what became of our band. In spite of the non-existent success of our so-called "band", I believed that music was my passion.
 
+<figure>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/neoelemento/27435394447/in/album-72157667270777237/" title="passion2"><img src="https://farm1.staticflickr.com/877/27435394447_b7ae8fab04_z.jpg" width="604"  alt="passion2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <figcaption>Dream of being in the band ended up ike this - badly photoshopped.</figcaption>
+</figure>
 
 Years later when I found my new home in the city of Bangalore ( Bengaluru now ) I carried this belief with me. But, by then it was almost a year and a half since I had played a show on stage and almost the same time since I played the guitar. Our last show was also a piss off disappointment. We had planned to sing around 8-10 songs but the fucking organisers gave us time only for 4-5 songs and during our slot, they asked the audience to have their dinner. Not that the majority of the kids in the audience who grew up in Kerala had any idea or liking towards the music we played, still it felt bad. In the three final years of my college life, we were the only four guys who picked up instruments and played on stage.
 
 Back to Bangalore life, I had my guitar with me and occasionally dusted it off and gradually lost my playing ability. My brother, on the other hand, was progressing well and got into a band in Christ college where he was doing his degree. I used to encourage him and go to his shows because it felt good to see him do all that which I never could experience even though I thought music was my passion. It is a different story that he doesn't play anymore as well. I can still play the guitar, but very simple chords and limited songs.
 
+<figure>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/neoelemento/27435393577/in/album-72157667270777237/" title="passion8"><img src="https://farm1.staticflickr.com/873/27435393577_4b833ede8c_z.jpg" width="640" alt="passion8"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <figcaption>Last ever live show. With Shyam and my brother for Shyam's company celebrations.</figcaption>
+</figure>
 
 My passion for programming came back and I was actually coding for a livelihood around this time. So now I believed in my mind that my passion was for programming and music. I learned new languages in programming and downloaded guitar lessons. I practised both rigorously. Every day. For two weeks. Then I lost interest in going through the pain of actually learning to play the guitar. It felt like too much effort and my passion wasn't enough to drive through the wall of inertia built by my laziness. Programming stayed with me and still stays with me, but not to the extent that I would've wanted it to be.
 
 The truth is, I was never able to be consistent in either of these. Can I play the guitar? Yes. Can I play it like a semi-professional or at least play some complicated chords or riffs? No. Same way, can I code? Yes. Can I build something which might be complicated and would be useful? Not sure. What does that say? I thought I had a passion for these and would build my career around these. But I failed in doing so. I say I failed because I did not become a musician and even though I am in tech, I don't code the way I wanted to be. Being a program manager, I am not coding for work. 
 
+<figure>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/neoelemento/40498276300/in/album-72157667270777237/" title="passion9"><img src="https://farm1.staticflickr.com/945/40498276300_ab0ed305b7_z.jpg" width="640" alt="passion9"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <figcaption>Trying hard to be expert in guitar. Lasted for a week or two. Circa 2013.</figcaption>
+</figure>
 
 But here is the interesting part. One might think that this would make me feel miserable and sad. But strangely it does not. I have accepted that I am not going to make it big in either of these fields. I might have to find out something else. One thing I am proud of myself is that I am optimistic as hell and positive as well. I am not one of that crib-a-baby who has problems with all your solutions and is mind-blowingly pessimistic about life. Whatever shit I go through every day in my life, I am sure that I will be where I want to be. Maybe slowly, but steadily.
 
@@ -93,8 +102,10 @@ If you are in the process of finding your passion, you must prepare yourself to 
 
 Finally, in my early thirties, I found my passion, yes it has been promoted from interest to passion - podcasting. I absolutely love my day job, but podcasting makes defines me. It is something I do being myself. It is something I am willing to walk over fire (being overly dramatic). Yes, there are days where I feel de-motivated to record or research, but with a little help from my brother and my willpower, we soldier through the situation.
 
+<figure>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/neoelemento/27435394557/in/album-72157667270777237/" title="passion1"><img src="https://farm1.staticflickr.com/898/27435394557_ff4f9045e7_z.jpg" width="604" alt="passion1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <figcaption>This one circa 2008 conveys what I feel about my passion now.</figcaption>
+</figure>
 
 There are days when I feel grumpy before a recording, but the moment we finish recording, I feel accomplished and I love it! This is exactly what passion is. I might find another passion down the line like I like coffee. I learned to brew my own coffee, but at this stage, it is just an interest and it might just go away. I'll give it time and see if it stays. Now that is how I decide what my passion is. Passion didn't work for me before, but now I understand the science behind it - not everything you love is your passion.
 
