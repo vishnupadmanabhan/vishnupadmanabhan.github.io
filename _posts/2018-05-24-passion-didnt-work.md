@@ -10,8 +10,10 @@ comments: true
 ---
 For a while, I considered myself a failure. During my early years in school, I was an average student. I was the class topper in my lower primary school but somehow settled in the middle of the pack as I grew up. But towards my high school, I became a popular kid in the school and was happy with where I was with minor academic hiccups. I say minor, but at the time I felt my world had crashed. More on that later. :wink:
 
+<figure>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/neoelemento/27435393787/in/album-72157667270777237/" title="passion5"><img src="https://farm1.staticflickr.com/902/27435393787_236c6fc38b_b.jpg" width="800" alt="passion5"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <figcaption>When I was a happy school kid (far left)</figcaption>
+</figure>
 
 As I moved to college I started feeling alien to the place, trying to measure my success through things that now feel silly or rubbish. Things like winning an argument, or trying to please people that didn't matter. Sometimes even trying to be in competition with someone to see who's better at being a dick. In most of these things, **I failed**.
 
