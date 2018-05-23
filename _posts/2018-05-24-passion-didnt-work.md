@@ -54,7 +54,7 @@ Back to Bangalore life, I had my guitar with me and occasionally dusted it off a
 
 <figure>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/neoelemento/27435393577/in/album-72157667270777237/" title="passion8"><img src="https://farm1.staticflickr.com/873/27435393577_4b833ede8c_z.jpg" width="640" alt="passion8"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-<figcaption>Last ever live show. With Shyam and my brother for Shyam's company celebrations.</figcaption>
+<figcaption>Last ever live show. With Shyam and my brother for a celebration in company Shyam worked for.</figcaption>
 </figure>
 
 My passion for programming came back and I was actually coding for a livelihood around this time. So now I believed in my mind that my passion was for programming and music. I learned new languages in programming and downloaded guitar lessons. I practised both rigorously. Every day. For two weeks. Then I lost interest in going through the pain of actually learning to play the guitar. It felt like too much effort and my passion wasn't enough to drive through the wall of inertia built by my laziness. Programming stayed with me and still stays with me, but not to the extent that I would've wanted it to be.
