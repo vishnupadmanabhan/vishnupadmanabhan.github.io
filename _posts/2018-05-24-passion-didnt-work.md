@@ -13,12 +13,9 @@ For a while, I considered myself a failure. During my early years in school, I w
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/neoelemento/27435393787/in/album-72157667270777237/" title="passion5"><img src="https://farm1.staticflickr.com/902/27435393787_236c6fc38b_b.jpg" width="800" alt="passion5"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <figcaption>When I was a happy school kid (far left)</figcaption>
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/neoelemento/27435394107/in/album-72157667270777237/" title="passion4"><img src="https://farm1.staticflickr.com/960/27435394107_3471a9379d_b.jpg" width="800" alt="passion4"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-<figcaption>Friends came home after 12<sup>th</sup> and we all wore kurthas</figcaption>
-
 As I moved to college I started feeling alien to the place, trying to measure my success through things that now feel silly or rubbish. Things like winning an argument, or trying to please people that didn't matter. Sometimes even trying to be in competition with someone to see who's better at being a dick. In most of these things, **I failed**.
 
-While in college, I wasn't working on a cool tech startup, I didn't have a girlfriend ( which I am extremely glad about now :stuck_out_tongue_closed_eyes: ) and wasn't really good academically. In fact, I once had to write two different semester exams on alternate days as I had some papers I had failed. Just before I joined college, I thought programming was my **passion**, but everyone said that Electronics & Communications Engineering was the thing and I must take that stream as my major in college. This was a bullshit advice, as time revealed.
+While in college, I wasn't working on a cool tech startup, I didn't have a girlfriend ( which I am extremely glad about :stuck_out_tongue_closed_eyes: ) and wasn't really good academically. In fact, I once had to write two different semester exams on alternate days as I had some papers I had failed. Just before I joined college, I thought programming was my **passion**, but everyone said that Electronics & Communications Engineering was the thing and I must take that stream as my major in college. This was a bullshit advice, as time revealed.
 
 After school, I went for a year's worth of coaching classes for engineering entrance exams. Another big mistake. This was one of my most wasted years. I did nothing. Did not even take the entrance coaching seriously. Don't get me wrong, I wanted to be an engineer. I considered it to be my passion. But did not have the drive to see it through. At the end of the year, I still managed to get a free seat with a 5k yearly fees compared to a 60k yearly fees that few of my friends paid at the time. But I never got a chance to rejoice thinking about this because of all I got to hear was how in spite of taking a year off for coaching, I still did not manage to get into the "top college", whatever fuck that means now.
 
@@ -37,9 +34,12 @@ I realised something during this time I realised that music is my **passion**. I
 <figcaption>Noises live!</figcaption>
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/neoelemento/40498276370/in/album-72157667270777237/" title="passion6"><img src="https://farm1.staticflickr.com/873/40498276370_ab8fe4a1ed_z.jpg" width="640" alt="passion6"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-<figcaption>Being the frontman</figcaption>
+<figcaption>Being the frontman. Circa 2008.</figcaption>
 
 I thought this will be my future, my passion was singing and playing the guitar. I did practice a lot during those days. But as days went by, my drive to continue practising kind of died. I practised only when there was a show coming up, which was once a year or so. So wasn't a big deal. I was sure the four of us were bandmates for life. As I write this today, I am in touch with only one of them and was the best man for his wedding and that was special. So that's what became of our band. In spite of the non-existent success of our so-called "band", I believed that music was my passion.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/neoelemento/27435394447/in/album-72157667270777237/" title="passion2"><img src="https://farm1.staticflickr.com/877/27435394447_b7ae8fab04_z.jpg" width="604"  alt="passion2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<figcaption>Dream of being in the band ended up ike this - badly photoshopped.</figcaption>
 
 Years later when I found my new home in the city of Bangalore ( Bengaluru now ) I carried this belief with me. But, by then it was almost a year and a half since I had played a show on stage and almost the same time since I played the guitar. Our last show was also a piss off disappointment. We had planned to sing around 8-10 songs but the fucking organisers gave us time only for 4-5 songs and during our slot, they asked the audience to have their dinner. Not that the majority of the kids in the audience who grew up in Kerala had any idea or liking towards the music we played, still it felt bad. In the three final years of my college life, we were the only four guys who picked up instruments and played on stage.
 
