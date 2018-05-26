@@ -28,7 +28,7 @@ We had decided that we'll sleep in the living room. Slowly we realised that slee
 
 We had a hard time trying to sleep. Something had to be done to get this feeling off. We turned on the T.V. and started surfing channels. There was E.T playing on one of the channels and decided to watch that. It did help a bit but all the while I was trying to sleep, the scenes from the movie kept playing in my mind. We could've watched a comedy, detective or action movie instead. Since that day I haven't been a big fan of scary movies. Afterall these years, I have never been able to try and be a fan of horror movies.
 
-That being said I do listen to scary podcasts. The _No Sleep Podcast_ being the recent favourite. It narrates scary stories people post on Reddit. It was while listening to one of these stories that I remembered this thing that happened when we were living in Kerala.
+As I said in the begining I do listen to podcasts and recently some scary ones. The _No Sleep Podcast_ being the recent favourite. It narrates scary stories people post on Reddit. It was while listening to one of these stories that I remembered this thing that happened when we were living in Kerala.
 
 ### The Intruder
 
