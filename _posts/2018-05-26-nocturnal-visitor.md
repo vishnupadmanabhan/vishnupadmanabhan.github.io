@@ -22,7 +22,9 @@ During the daytime, it is a very cheerful experience to see the tree sway in the
 
 The worst part of watching a scary movie, going to pee afterwards. The toilet in this house was down a small flight of stairs. No one wanted to go first. We all decided to go down together and one by one enter the toilet and the others waited outside.
 
-We had decided that we'll sleep in the living room. Slowly we realised that sleep wasn't gonna come anytime soon. Eyes and ears were on full alert. We tried to talk to each other, but the only scene that played in the mind was the one where... nevermind. You know which one if you have watched the movie.
+We had decided that we'll sleep in the living room. Slowly we realised that sleep wasn't gonna come anytime soon. Eyes and ears were on full alert. We tried to talk to each other, but the only scene that played in the mind was the one where... nevermind. You know which one if you have watched the movie. 😰
+
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/3otPoJhe5AZrhllEeQ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/filmeditor-the-exorcist-linda-blair-regan-3otPoJhe5AZrhllEeQ">via GIPHY</a></p>
 
 We had a hard time trying to sleep. Something had to be done to get this feeling off. We turned on the T.V. and started surfing channels. There was E.T playing on one of the channels and decided to watch that. It did help a bit but all the while I was trying to sleep, the scenes from the movie kept playing in my mind. We could've watched a comedy, detective or action movie instead. Since that day I haven't been a big fan of scary movies. Afterall these years, I have never been able to try and be a fan of horror movies.
 
