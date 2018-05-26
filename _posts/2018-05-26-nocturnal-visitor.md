@@ -26,24 +26,24 @@ We had decided that we'll sleep in the living room. Slowly we realised that slee
 
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/3otPoJhe5AZrhllEeQ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/filmeditor-the-exorcist-linda-blair-regan-3otPoJhe5AZrhllEeQ">via GIPHY</a></p>
 
-We had a hard time trying to sleep. Something had to be done to get this feeling off. We turned on the T.V. and started surfing channels. There was E.T playing on one of the channels and decided to watch that. It did help a bit but all the while I was trying to sleep, the scenes from the movie kept playing in my mind. We could've watched a comedy, detective or action movie instead. Since that day I haven't been a big fan of scary movies. Afterall these years, I have never been able to try and be a fan of horror movies.
+We had a hard time trying to sleep. Something had to be done to get this feeling off. We turned on the T.V. and started surfing channels. There was E.T playing on one of the channels and decided to watch that. It did help a bit but all the while I was trying to sleep, the scenes from the movie kept playing in my mind. We could've watched a comedy, detective or action movie instead. Since that day I haven't been a big fan of scary movies and believe me I have tried.
 
 As I said in the begining I do listen to podcasts and recently some scary ones. The _No Sleep Podcast_ being the recent favourite. It narrates scary stories people post on Reddit. It was while listening to one of these stories that I remembered this thing that happened when we were living in Kerala.
 
 ### The Intruder
 
-I might have been in my 6<sup>th</sup> grade or something when this happened. It might have been one of the months from December or January because of one very specific reason which I'll come to as I tell you the story. 
+I might have been in my 6<sup>th</sup> grade or something when this happened during the months from December or January because it was windy and there were dry leaves in our backyard. 
 
-Our house, a rented house, was in part of the land which was surrounded by fields. There was a national highway running around half a kilometre from our house towards the rear side of the plot and in between our plot and the highway it was this huge field where no cultivation happened. It was a place where cattle used to graze because only grass grew there. It was a beauty during daytime and bit creepy during the night especially when there was no moonlight.
+Our house was in part of the land which was surrounded by fields. There was a national highway running around half a kilometre from our house towards the rear side of the plot and in between our plot and the highway it was this huge field where no cultivation happened. It was a place where cattle used to graze because only grass grew there. It was a beauty during daytime and bit creepy during the night especially when there was no moonlight.
 
-On a windy day, the large number of trees in our backyard would sway and make spooky noises dropping dry leaves all over. So if you take a walk through the backyard, you'd hear the dry leaves crush under our feet. If you walk for around 30-40 metres, you'd come to the edge of the plot and to the boundary of the field behind. A sharp drop of about two metres formed the boundary and there was a rudimentary fence which was made of shrubs and thorny plants.
+On a windy day, the large number of trees in our backyard would sway and make spooky noises dropping dry leaves all over. So if you take a walk through the backyard, you'd hear the dry leaves crush under our feet. If you walk for about 30 metres, you'd come to the edge of the plot and the beginning of the field behind. A sharp drop of about two metres formed the boundary and there was a rudimentary fence which was made of shrubs and thorny plants.
 
 If anyone wished, they could easily climb into our plot from the field, but that was something that never worried us until the day this happened. We usually had dinner around 7:30 pm and watched television till around 9 - 9:30 pm. It was one of those TV sessions going on and it was just my mom, brother and I in the house. The back side of our house had a corridor which led to the bathroom. There was a door which opened to the backyard and the entire backside was just grill. That meant there was no solid wall but a grill through which everything is visible. The outermost walls were, in fact, the walls of the bedroom and the living room. I know pretty crappy design. Well, it was an old house, no one cared.
 
 
 <figure>
 <img src="https://res.cloudinary.com/vishnupadmanabhan/image/upload/v1527273325/nocturnal.jpg" width="100%">
-<figcaption>Image: <a href="https://visualhunt.com/re/d02e32" target="_blank">Visual Hunt</a></figcaption>
+<figcaption>The kitchen door was something like this. Image: <a href="https://visualhunt.com/re/d02e32" target="_blank">Visual Hunt</a></figcaption>
 </figure>
 
 
@@ -57,7 +57,7 @@ I must tell you that our house was the closest to the field behind and was furth
 
 Anyway, we heard the footsteps rapidly moving towards the side of the kitchen. We had two steps leading to the kitchen door from the outside and the steps appeared to come and stop right in front of those steps. All this while none of us had the courage to go and look out to what or who it was. I was a kid and mom wasn't fond of any kind of nocturnal visitors. We waited to hear the footsteps go away. But they didn't. We waited with our strained ears trying to catch the faintest of sounds.
 
-Suddenly there came a sound that sent shivers down our spines. The kitchen door started rattling as if someone was trying to push their way through. It was a creaky door and it made a loud sound when it was agitated rapidly by force. We felt that the door would just give away and open up. Mom started screaming which I think helped in a way that the ratling stopped and we heard the footsteps run away in the direction of the fields.
+Suddenly there came a sound that sent shivers down our spines. The kitchen door started rattling as if someone was trying to push their way through. It was a creaky door and it made a loud sound when it was agitated rapidly by force. We felt that the door would just give away and open up. Mom started screaming which I think helped in a way that the rattling stopped and we heard the footsteps run away in the direction of the fields.
 
 It took a good five minutes for us to regain our strength to move from our respective places and mom ended up calling our neighbours. Few of them came down and started inspecting the area around, there was not a soul to be seen or heard except the ghostly sound of the wind in the trees. Neighbours started forming theories stating that it might have been a dog or some animal, suddenly everyone turned into _Sherlock Holmes_. But I know that thing I heard outside wasn't a dog or a cat. I sounded human.
 
