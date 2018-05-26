@@ -2,7 +2,7 @@
 layout: post
 title:  "The Nocturnal Visitor"
 excerpt: "We had an uninvited visitor to our home and we were glad he didn't get in"
-banner: https://res.cloudinary.com/vishnupadmanabhan/image/upload/v1527273325/nocturnal.jpg
+banner: https://res.cloudinary.com/vishnupadmanabhan/image/upload/v1527312906/noncturnal2.jpg
 author: "Vishnu"
 date:   2018-05-26 00:01:00
 categories: life
@@ -38,6 +38,13 @@ On a windy day, the large number of trees in our backyard would sway and make sp
 
 If anyone wished, they could easily climb into our plot from the field, but that was something that never worried us until the day this happened. We usually had dinner around 7:30 pm and watched television till around 9 - 9:30 pm. It was one of those TV sessions going on and it was just my mom, brother and I in the house. The back side of our house had a corridor which led to the bathroom. There was a door which opened to the backyard and the entire backside was just grill. That meant there was no solid wall but a grill through which everything is visible. The outermost walls were, in fact, the walls of the bedroom and the living room. I know pretty crappy design. Well, it was an old house, no one cared.
 
+
+<figure>
+<img src="https://res.cloudinary.com/vishnupadmanabhan/image/upload/v1527273325/nocturnal.jpg" width="100%">
+<figcaption>Image: <a href="https://visualhunt.com/re/d02e32" target="_blank">Visual Hunt</a></figcaption>
+</figure>
+
+
 As we were sitting and watching TV, my mom and I heard some sound coming from the backyard. The sound of leaves being crumpled under someone's feet. Normally dogs and other animal roam around in the vicinity, but this one sounded different. In fact, both of us realised that in an instant, I don't know how, but we did. There was a look of horror on mom's face and my heart started racing. What could that be?
 
 "Who's there?" asked my mom. As if giving a terrifying response, the footsteps stopped. The last footstep would've been about 10-15 feet away from the back door. If shit went down, I wouldn't trust that rickety back door which at night was secured by a lock and chain. A damned _lock and chain!_ But at times when things like these happen, you somehow assume that even a piece of silk between you and the danger would somehow protect you.
@@ -55,5 +62,3 @@ It took a good five minutes for us to regain our strength to move from our respe
 You know how the pace of a human's footstep is recognisable? I felt that, so did my mom. But to this day, no one knows what or who it was. Was it a burglar? If yes, why would he come in at a time when everyone is awake? Especially when all the lights were turned on in the house. Did the person or the thing have a different intention? I'd never know and I'd like to never know. All said and done, it was scary and since that day, it was eerie to look into the dark night outside the grilled corridor with the wind rustling in the trees and silvery moonlight illuminating the trees and the vast field beyond with a gloomy shade of grey. 
 
 # 👻 
-
-Image: [Visualhunt](https://visualhunt.com/re/d02e32){:target="_blank"}
