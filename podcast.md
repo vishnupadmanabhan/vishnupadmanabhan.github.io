@@ -15,4 +15,4 @@ I have been podcasting for a long time and listen to many many of them. So, one 
 
 Thus, [Writer & Geek Show](https://writerandgeek.com){:target="_blank"} was born! Shankar is a writer and I am sort of a geek hence the name. But the fact is, our roles are interchangeable!
 
-If you would love to listen to our geeky conversations about coffee, serial killers, moon landing and other stuff, head to our website and start listening. We are also on all major podcast channels like [iTunes](https://itunes.apple.com/us/podcast/id1243324627){:target="_blank"}, [stitcher](https://www.stitcher.com/podcast/writer-geek-show):target="_blank"} etc.
+If you would love to listen to our geeky conversations about coffee, serial killers, moon landing and other stuff, head to our website and start listening. We are also on all major podcast channels like [iTunes](https://itunes.apple.com/us/podcast/id1243324627){:target="_blank"}, [stitcher](https://www.stitcher.com/podcast/writer-geek-show){:target="_blank"} etc.
