@@ -312,6 +312,11 @@ p code {
     }
 }
 
+del {
+    -webkit-text-stroke: 0.45px rgba(0, 0, 0, 0);
+    text-shadow: #000 0px 1px 1px;
+}
+
 .PageNavigation {
   font-size: 14px;
   display: block;
