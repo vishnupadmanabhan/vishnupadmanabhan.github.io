@@ -313,8 +313,8 @@ p code {
 }
 
 del {
-    -webkit-text-stroke: 0.45px rgb(29, 28, 28);
-    text-shadow: none;
+    -webkit-text-stroke: 0.45px transparent;
+    text-shadow: #666 0px 0px 0px;
 }
 
 .PageNavigation {
