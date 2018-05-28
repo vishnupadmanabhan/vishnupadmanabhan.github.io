@@ -8,7 +8,7 @@ date:   2018-05-28 00:01:00
 categories: life
 comments: true
 ---
-I love working from cafes as I am sure I would've said a hundred times before. Last Saturday, I was sitting happily sipping my coffee and getting some work done when I noted three guys with notebooks talking (loudly). The reason I noted them was that they were talking at a decibel level which was higher than my approved level for a cafe. That's right _my approval level_. Well, it is a level I decided as the peak for people to talk in a cafe.
+I love working from cafes as I am sure I would've said a hundred times before. Last Saturday, I was sitting happily sipping my coffee and getting some work done when I noted three guys with notebooks talking (loudly). The reason I noted them was that they were talking at a decibel level which was higher than my approved level for a cafe. That's right, _my_ approved level. Well, it is a level I decided as the peak for people to talk in a cafe.
 
 Not that the cafe had any such rules but it indeed irritated me. If they wanted to chat loudly they should've found some other place, I thought. I was about to reach out to my headphones, which, on more than one occasion has been my saviour when I realised it was a meeting about some sort of pyramid scheme or multi-level marketing. I carry my headphones everywhere I go so that I can shut off the world if I need to. So, as I was getting my headphones on, I heard one of the guys, who seemed to lead the charge... Well, before we get into it, let me describe them so that you get a better picture.
 
