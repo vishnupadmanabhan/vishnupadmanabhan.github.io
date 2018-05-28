@@ -32,7 +32,7 @@ Now that you have the stage set, let me move on.
 
 Before the conversation started, Guy no.1 and Guy no.2 were sitting and having coffee and then Guy no.3 makes an entry like a hero or a rock star. Guys 1 and 2 stand up with respect for him, shaking his hands. In this case, Guy no.3 is probably in his early (or late, no idea!) the 20s. After exchanging pleasantries, Guy no.3 makes his opening statement that pisses me off instantly now if not earlier.
 
-_"I worked as a software engineer for six years like a slave. Then I found this business and quit my job and now am an entrepreneur"_
+>"I worked as a software engineer for six years like a slave. Then I found this business and quit my job and now am an entrepreneur"
 
 The other two guys had their eyes gleaming as he went on and on about the perks his newfound "career" has given him. At this point I thought I no longer care for this, people have their lives and I am not here to judge them. I have been guy 1 at some point in my life so I can understand. Thanks to my headphones, I was able to continue with my work.
 
@@ -40,7 +40,7 @@ But the thing I kept thinking was that some of us tend to think that being grate
 
 Instead of bitching about your day job and making it look like a villain why couldn't we just say something along the lines of:
 
-_"I realised I wanted different things from life and hence got into this business"_
+>"I realised I wanted different things from life and hence got into this business"
 
 See? Cleaner and you don't sound like you are cribbing about something. Don't get me wrong, I am not claiming that I am perfect. I used to do this at one point, but I have since decided to stay away from cribbing and take responsibility for everything that happens in my life. It is difficult, but it is doable.
 
