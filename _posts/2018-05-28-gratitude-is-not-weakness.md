@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Gratitude doesn't make you look weak"
+title:  "Gratitude doesn't make you weak"
 excerpt: "Contrary to popular belief, gratitude isn't weakness"
 banner: https://res.cloudinary.com/vishnupadmanabhan/image/upload/v1527532003/gratitude.jpg
 author: "Vishnu"
