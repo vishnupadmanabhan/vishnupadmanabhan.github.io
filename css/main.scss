@@ -11,6 +11,7 @@
 ;
 
 $green: rgb(60, 201, 60);
+$darkgrey: #333;
 $font-size: 22px;
 $serif: 'Adobe Caslon Pro', Georgia, serif;
 $sans-serif: 'Josefin Sans', sans-serif;
@@ -20,17 +21,19 @@ body {
     font-size: $font-size;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    color: #666666;
+    color: $darkgrey;
 }
 
 .navbar{
     border-radius: 0;
     font-family: $sans-serif;
+    color: $darkgrey;
 }
 
 .navbar-brand {
     font-size: $font-size;
     font-family: $sans-serif;
+    color: $darkgrey;
 }
 
 main {
@@ -205,7 +208,7 @@ p code {
         word-spacing: .4rem;
         font-weight: 400;
         margin: 0 0 30px;
-        color: #666666;
+        color: $darkgrey;
         -webkit-text-stroke: 0.45px rgba(0, 0, 0, 0.1);
         text-shadow: #fff 0px 1px 1px;
         -webkit-font-smoothing: antialiased;
@@ -229,7 +232,7 @@ p code {
         line-height: 1.6;
         word-spacing: .4rem;
         font-weight: 400;
-        color: #666666;
+        color: $darkgrey;
         -webkit-text-stroke: 0.45px rgba(0, 0, 0, 0.1);
         text-shadow: #fff 0px 1px 1px;
     }
