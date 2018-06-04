@@ -12,6 +12,7 @@
 
 $green: rgb(60, 201, 60);
 $darkgrey: #333;
+$lightgrey: #666;
 $font-size: 22px;
 $serif: 'Adobe Caslon Pro', Georgia, serif;
 $sans-serif: 'Josefin Sans', sans-serif;
@@ -27,13 +28,13 @@ body {
 .navbar{
     border-radius: 0;
     font-family: $sans-serif;
-    color: $darkgrey;
+    color: $lightgrey;
 }
 
 .navbar-brand {
     font-size: $font-size;
     font-family: $sans-serif;
-    color: $darkgrey;
+    color: $lightgrey;
 }
 
 main {
