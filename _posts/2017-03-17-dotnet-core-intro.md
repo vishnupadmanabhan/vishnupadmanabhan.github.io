@@ -94,7 +94,7 @@ Once the project is created, run `dotnet restore` to install all the dependencie
 PS D:\Code\ConCore> dotnet restore
 ```
 
-Once all the dependencies are install, `dotnet run` command runs the app
+Once all the dependencies are installed, `dotnet run` command runs the app
 
 ```powershell
 PS D:\Code\ConCore> dotnet run
