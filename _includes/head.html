@@ -43,5 +43,30 @@
       <![endif]-->
 
       <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+      <!--Cookie Policy-->
+      <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
+      <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+      <script>
+      window.addEventListener("load", function(){
+      window.cookieconsent.initialise({
+        "palette": {
+          "popup": {
+            "background": "#1b1b25",
+            "text": "##3cc93c"
+          },
+          "button": {
+            "background": "transparent",
+            "text": "##3cc93c",
+            "border": "##3cc93c"
+          }
+        },
+        "position": "top",
+        "static": true,
+        "content": {
+          "message": "This website uses cookies and analytics to ensure you get the best experience on our website."
+        }
+      })});
+      </script>
+      <!--end cookie-->
 </head>
 
