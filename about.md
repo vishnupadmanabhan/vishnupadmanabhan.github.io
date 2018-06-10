@@ -14,3 +14,5 @@ I have been working in the software industry since I graduated college and been 
 Why that quote? I love it, and Harvey is cool!
 
 Currently, I am into podcasting. My posts will be reflecting my experiences in life and my learnings as I go. Besides this, I play the [guitar](https://vishnupadmanabhan.com/passion-didnt-work/){:target="_blank"} and a self-confessed foodie. I love reading and spend hours reading and researching stuff sometimes for no reason.
+
+>Follow the path of the unsafe, independent thinker. Expose your ideas to the dangers of controversy. Speak your mind and fear less the label of ’crack-pot’ than the stigma of conformity. And on issues that seem important to you, stand up and be counted at any cost. <br> - **Thomas J. Watson**
