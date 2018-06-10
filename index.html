@@ -70,6 +70,7 @@ layout: default
                             </div>
                             <div class="col-md-9 post-content">
                               <!-- {% for category in post.categories %}<span class="post-category"><a href="/archives/#{{ category }}">{{ category }}</a></span> {% if forloop.last == false %} {% endif %}{% endfor %} -->
+                              {% for category in post.categories %}<span class="post-category"><a href="{{ post.url | prepend: site.baseurl }}">{{ category }}</a></span> {% if forloop.last == false %} {% endif %}{% endfor %}
                                 <h2 class="post-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
                                 <h3 class="post-desc">{{ post.excerpt }}</h3>                                
                                 <div class="post-body">
