@@ -16,3 +16,9 @@ Why that quote? I love it, and Harvey is cool!
 Currently, I am into podcasting. My posts will be reflecting my experiences in life and my learnings as I go. Besides this, I play the [guitar](https://vishnupadmanabhan.com/passion-didnt-work/){:target="_blank"} and a self-confessed foodie. I love reading and spend hours reading and researching stuff sometimes for no reason.
 
 >Follow the path of the unsafe, independent thinker. Expose your ideas to the dangers of controversy. Speak your mind and fear less the label of ’crack-pot’ than the stigma of conformity. And on issues that seem important to you, stand up and be counted at any cost. <br> - **Thomas J. Watson**
+
+Wanna reach out to me for a chat over coffee?
+
+<div class="typeform-widget" data-url="https://vishnu115.typeform.com/to/Tcpt3p" style="width: 100%; height: 500px;"></div> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm", b="https://embed.typeform.com/"; if(!gi.call(d,id)) { js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script> 
+
+<!-- <div style="font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px;"> powered by <a href="https://admin.typeform.com/signup?utm_campaign=Tcpt3p&utm_source=typeform.com-12227293-Basic&utm_medium=typeform&utm_content=typeform-embedded-poweredbytypeform&utm_term=EN" style="color: #999" target="_blank">Typeform</a> </div> -->
