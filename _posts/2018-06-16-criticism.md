@@ -16,7 +16,7 @@ My basic reaction to criticism used to be instant anger, feeling hurt and discou
 
 When my brother was very young, like in second grade or so, he wrote a short story. It did not have any logic whatsoever, but what do you expect from a child's mind. It was good work for his age. One day, when we were all sitting together in the house, my dad passed a comment on the story. So apparently there was this fox which wanted to hurt someone, I do not remember what it was exactly. In order to do so, it threw a stone on a coconut tree nearby and the coconut fell on the other fellow's head and he was hurt. Dad asked _"Wouldn't it be easier for the fox to just throw the stone directly instead?"_ That was the last time my brother wrote a story until he reached adulthood and became a [writer](https://ramblingjoint.com){:target="_blank"}.
 
-Like with anything else, they come in all forms. Some criticise you because they genuinely care about you, some are unhappy with your success, some are jealous, some want to correct you and some others just 
+Like with anything else, they come in all forms. Some criticise you because they genuinely care about you, some are unhappy with your success, some are jealous, some want to correct you and some others just like to doit for some unknown reason.
 
 >Best response is grace. Next best is silence.  
 — Vishnu (a great guy)
