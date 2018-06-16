@@ -23,7 +23,7 @@ Like with anything else, they come in all forms. Some criticise you because they
 
 Yeah, I made that quote up, a good one isn't it? I knew you'd agree.
 
->Where there is a flame, someone's bound to get burned. 
+>Where there is a flame, someone's bound to get burned.   
 — <strong>Pink (Try)</strong>
 
 When it comes to criticism, there are some things we need to understand. Although these are not going to save you from that _punch in the gut feeling_, they will help you cope better with the whole situation.
