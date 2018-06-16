@@ -8,7 +8,7 @@ date:   2018-06-16 00:01:00
 categories: life
 comments: true
 ---
-Criticism. If you are doing something, anything, criticism will come knocking at your door like an unwelcome guest. It is uncomfortable to have him around and not easy to get rid of. He lingers around in your house. You lock yourself in your room to not face him sitting and enjoying the coffee in the living room. You then completely stop coming out of your room and everything that is yours is lost. Happened to you? I would be surprised if it hasn't. I mean, the criticism part, not the guest.
+**Criticism**. If you are doing something, anything, criticism will come knocking at your door like an unwelcome guest. It is uncomfortable to have him around and not easy to get rid of. He lingers around in your house. You lock yourself in your room to not face him sitting and enjoying the coffee in the living room. You then completely stop coming out of your room and everything that is yours is lost. Happened to you? I would be surprised if it hasn't. I mean, the criticism part, not the guest.
 
 Truth be told, criticism sucks. No, don't try to convince me otherwise. If it is coming your way, you got to be prepared. Everything that you create or do is dear to you. That is why you get that burning feeling inside when someone says something about your work.
 
@@ -19,12 +19,12 @@ When my brother was very young, like in second grade or so, he wrote a short sto
 Like with anything else, they come in all forms. Some criticise you because they genuinely care about you, some are unhappy with your success, some are jealous, some want to correct you and some others just 
 
 >Best response is grace. Next best is silence.  
-— <strong>Vishnu (a great guy)</strong>
+— Vishnu (a great guy)
 
 Yeah, I made that quote up, a good one isn't it? I knew you'd agree.
 
 >Where there is a flame, someone's bound to get burned.   
-— <strong>Pink (Try)</strong>
+— Pink (Try)
 
 When it comes to criticism, there are some things we need to understand. Although these are not going to save you from that _punch in the gut feeling_, they will help you cope better with the whole situation.
 
@@ -67,7 +67,7 @@ Since we are not experts or PhD holders in the subjects we talk about, mistakes 
 Let all the criticism not deter you from creating. Create as you consume. In fact, try and create more than you consume, that's when you give value.
 
 >When you cease to make a contribution, you begin to die.  
-— <strong>Eleanor Roosevelt</strong>
+– Eleanor Roosevelt
 
 Someone might be criticising me for using so many quotes in this post. But it is okay, they are all relevant. 😉
 
