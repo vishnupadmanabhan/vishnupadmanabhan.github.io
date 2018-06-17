@@ -31,7 +31,7 @@ When it comes to criticism, there are some things we need to understand. Althoug
 ### 1. You are always judged
 No matter what you do or how careful you are about living your life, you are always being judged. There is no escape. Accepting this truth is liberating. Less you care about making everyone happy, more you'll be happy.  Take a moment to take this in and move on with what you intend to do.
 
-I have been to lavish weddings where the families have spent a fortune on food and decor. There are these guests who have this one job, just criticise the entire setup. Although their tummies are full, they still leave a comment on how the food was not precisely   78.6&#176;C. These comments invariably make their way back to the hosts and they spend some time being upset that they couldn't meet the expectations of the guests. Is it worth it? Like _really?_
+I have been to lavish weddings where the families have spent a fortune on food and decor. There are these guests who have this one job - just criticise the entire setup. Although their tummies are full, they still leave a comment on how the temperature of the curry was not precisely 78.6&#176;C. These comments invariably make their way back to the hosts and they spend some time being upset that they couldn't meet the expectations of the guests. Is it worth it? Like _really?_
 
 ### 2. Bigger the game, more the criticism
 When you get criticised more severely, usually it means that you are doing something. More impactful your work, bigger the criticism. It's a motivating way to look at things. If you are getting more criticism, it means you are doing something that has a bigger impact. 
@@ -44,7 +44,7 @@ So if you find someone vehemently criticising what you do, congratulations, you 
 ### 3. Harsh critics are usually cowards (assholes)
 If you notice a pattern with the people who are the harshest critics, the ones who go the extent of hurling expletives and threats are usually cowards. If you are facing online bullying, usually it is from some guy who's hiding behind an obscure username. He is scared of showing his face or leaves a guest comment on your post. You can straight away ignore these kinds of criticism. Don't respond to them and if they are commenting on your site, do not think twice about deleting their comments and blocking them. No point wasting your time on these idiots.
 
->Taller plants are the ones that are chopped down.
+>Taller grass get chopped down.
 
 The other type of harsh critics are the ones who feel threatened by what you do. Either they feel that you are a competition for them or they feel that inferior to you. Their feedback is seldom constructive because their intention is just to bring you down, make you feel pathetic about whatever you are doing. Don't heed to their cry. They are like these street dogs you encounter while you walk your dog. They get insecure about their territory and start barking and acting weird. They are just trying to mow you down. Remember, _people chop down taller grass to match the shorter ones_.
 
