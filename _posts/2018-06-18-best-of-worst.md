@@ -8,7 +8,6 @@ date:   2018-06-18 00:01:00
 categories: life
 comments: true
 ---
-### Best of the worst
 I am always on a lookout for inspiration and one of the ways I do this is by reading blogs written by others. Not necessarily just motivational and goal oriented stuff, but I do love to read personal blogs as well. This gives me a view of the world from a different perspective. A perspective which you might have never seen the world from.
 
 Since I started posting here _regularly-ish_ I have had some of my friends share other blogs which they wanted me to check out and the ones they think are cool. I usually read them and give feedback on whether I liked the article or not. But recently a friend of mine, who also happens to be my colleague, very reluctantly shared his blog. It was active roughly during 2009 - 2014 and I was dumbfounded by the amazing gem of articles he has written over the years. Since the blog seems to be on hiatus, I have been trying my best to convince him to write again.
