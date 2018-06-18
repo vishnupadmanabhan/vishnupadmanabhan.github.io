@@ -18,7 +18,7 @@ The story is about a narrator who calls himself "Chithal" meaning _termite_ in M
 
 Exactly like the sparkler above burning to produce that lovely sparkling firework.
 
-I'll share the link to the story towards the end of this post and if you know Malayalam you can enjoy it. I have been coercing him to start writing again and perhaps he might need a little more push. Who knows if he gets some feedback, he might even go ahead and release an English translation of the story. Thank you [Mr Chithal](http://karmafalam.blogspot.com){:target="_blank"} for sharing this awesome story and your blog, I really enjoyed it!
+I'll share the link to the story towards the end of this post and if you know Malayalam you can enjoy it. I have been coercing him to start writing again and perhaps he might need a little more push. Who knows if he gets some feedback, he might even go ahead and release an English translation of the story. Thank you, Mr Chithal for sharing this awesome story and your blog, I really enjoyed it!
 
 Here is the story: [Return Gift](http://karmafalam.blogspot.com/2010/09/blog-post.html){:target="_blank"}
 
