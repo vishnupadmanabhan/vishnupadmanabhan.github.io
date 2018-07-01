@@ -28,14 +28,6 @@ body {
     font-weight: 400;
 }
 
-em, i {
-    -moz-transform: scale(1) rotate(0deg) translate(0px, 0px) skew(30deg, 0deg);
-    -webkit-transform: scale(1) rotate(0deg) translate(0px, 0px) skew(30deg, 0deg);
-    -o-transform: scale(1) rotate(0deg) translate(0px, 0px) skew(30deg, 0deg);
-    -ms-transform: scale(1) rotate(0deg) translate(0px, 0px) skew(30deg, 0deg);
-    transform: scale(1) rotate(0deg) translate(0px, 0px) skew(30deg, 0deg);
-}
-
 .navbar{
     border-radius: 0;
     font-family: $sans-serif;
