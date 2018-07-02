@@ -49,14 +49,14 @@ If you notice a pattern with the people who are the harshest critics, the ones w
 The other type of harsh critics are the ones who feel threatened by what you do. Either they feel that you are a competition for them or they feel that inferior to you. Their feedback is seldom constructive because their intention is just to bring you down, make you feel pathetic about whatever you are doing. Don't heed to their cry. They are like these street dogs you encounter while you walk your dog. They get insecure about their territory and start barking and acting weird. They are just trying to mow you down. Remember, _people chop down taller grass to match the shorter ones_.
 
 ### 4. Most criticism is irrelevant
-Most of the criticism that you face is just noise most of the times. They are just irrelevant. People have different opinions, some of them just don't apply to you. If you try and make everyone happy, you are going to end up unhappy. Do what you need to do, as long as it is not something bad, you'll always find people who appreciate it. I write this blog not to change the world but because I feel good putting my thoughts out. It is the same with the podcast as well. Every episode requires some amount of research and if no one appreciates, it is an education for me.
+Most of the criticism that you face is just noise. They are just irrelevant. People have different opinions, some of them just don't apply to you. If you try and make everyone happy, you are going to end up unhappy. Do what you need to do, as long as it is not something bad, you'll always find people who appreciate it. I write this blog not to change the world but because I feel good putting my thoughts out. It is the same with the podcast as well. Every episode requires some amount of research and if no one appreciates, it is an education for me.
 
 >Every moment spent focusing on criticism is a moment taken away
 
 Don't spend too much time brooding over a criticism. It is not worth it. The moment you realise the intention behind it, move on.
 
 
-### 5 . Reframe the negative as an opportunity
+### 5. Reframe the negative as an opportunity
 The best way to deal with criticism is to consider as an opportunity. Consider it as a chance to learn and be better. Maybe someone really wants to see you succeed at what you do. In that case, sit down and review the feedback, think over what can be improved or corrected. Once in a while I get feedback on certain podcast episodes, both praising the content and also in some cases, disagreeing with what we talk. I am open to such conversations which are healthy for our podcast and if we find out we goofed up something, we make it a point to correct it either in the show notes or in the next episode.
 
 >He has a right to criticize, who has a heart to help.  
