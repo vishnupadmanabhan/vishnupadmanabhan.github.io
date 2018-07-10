@@ -10,7 +10,7 @@ comments: true
 ---
 Over the past few months, few of us from the Bangalore podcasting scene have been meeting once in a while. It wasn't anything like an official meetup, but it was nice to meet fellow podcasters and share ideas about what works and what does not. It was mostly just four of five of us in a coffee shop.
 
-One of us, Saif who hosts the popular travel podcast [The Musafir Stories](https://audioboom.com/channel/the-musafir-stories-india-travel-podcast) {:target="_blank"}, is pretty active on podcasting community on social media and is good at networking and reaching out to other fellow creators. The result? We had a pretty awesome meetup last Saturday on 7/7/2018 with around 18 members.
+One of us, Saif who hosts the popular travel podcast [The Musafir Stories](https://audioboom.com/channel/the-musafir-stories-india-travel-podcast){:target="_blank"}, is pretty active on podcasting community on social media and is good at networking and reaching out to other fellow creators. The result? We had a pretty awesome meetup last Saturday on 7/7/2018 with around 18 members.
 
 Thanks to Pankaj Mishra who hosts [Outliers](https://factordaily.com/podcasts/){:target="_blank"}, we were able to host the meetup at [Factor Daily](https://factordaily.com/){:target="_blank"} office. For us, this was a win! We were able to bring some invested creators who are in the podcasting scene from Bangalore together and have some meaningful conversations.
 
