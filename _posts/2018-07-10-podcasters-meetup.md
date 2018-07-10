@@ -2,7 +2,7 @@
 layout: post
 title:  "Podcasters' Meetup"
 excerpt: "Podcasters from the city had a meetup"
-banner: https://res.cloudinary.com/vishnupadmanabhan/image/upload/v1527312906/noncturnal2.jpg
+banner: https://res.cloudinary.com/vishnupadmanabhan/image/upload/v1531188828/bangpod.jpg
 author: "Vishnu"
 date:   2018-07-10 00:01:00
 categories: podcasting
