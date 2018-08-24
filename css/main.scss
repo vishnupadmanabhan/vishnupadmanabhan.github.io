@@ -37,7 +37,7 @@ body {
 
 .navbar-brand {
     font-size: $font-size;
-    font-family: $serif;
+    font-family: $sans-serif;
     color: $lightgrey;
 }
 
@@ -92,7 +92,7 @@ p code {
 .title-about {
     font-weight: 700;
     text-transform: uppercase;
-    font-family: $serif;
+    font-family: $sans-serif;
 }
 
 .single-article {
@@ -103,39 +103,39 @@ p code {
 .post-title {
     font-weight: 700;
     text-transform: uppercase;
-    font-family: $serif;
+    font-family: $sans-serif;
 }
 
 .post-title-single {
     font-weight: 700;
     text-transform: uppercase;
     font-size: 5rem;
-    font-family: $serif;
+    font-family: $sans-serif;
 }
 
 .post-desc {
     font-size: 2.2rem;
     font-weight: 700;
-    font-family: $serif;
+    font-family: $sans-serif;
 }
 
 .post-desc-single {
     font-size: 2.8rem;
     font-weight: 700;
-    font-family: $serif;
+    font-family: $sans-serif;
 }
 
 .post-meta {
     font-weight: 700;
     text-align: center;
-    font-family: $serif;
+    font-family: $sans-serif;
 }
 
 .post-category {
     font-weight: 700;
     text-transform: uppercase;
     border-bottom: 2px solid #5cb85c;
-    font-family: $serif;
+    font-family: $sans-serif;
 }
 
 .post-featured-img {
@@ -147,7 +147,7 @@ p code {
    font-size: 1.8rem;
    font-style: italic;
    font-weight: 700; 
-   font-family: $serif;
+   font-family: $sans-serif;
 }
 
 .post-meta img {
@@ -164,7 +164,7 @@ p code {
    font-size: 1.4rem;
    font-style: italic;
    font-weight: 700; 
-   font-family: $serif;
+   font-family: $sans-serif;
 }
 
 .post-body {
@@ -181,7 +181,7 @@ p code {
         font-weight: 700;
         text-transform: uppercase;
         margin-top: 3rem;
-        font-family: $serif;
+        font-family: $sans-serif;
     }
 
     h2 {
@@ -189,25 +189,25 @@ p code {
         font-weight: 700;
         text-transform: uppercase;
         margin-top: 3rem;
-        font-family: $serif;
+        font-family: $sans-serif;
     }
 
     h3 {
       font-size: 3.2rem;
       font-weight: 700;
-      font-family: $serif;
+      font-family: $sans-serif;
     }
     
     h4 {
       font-size: 2.8rem;
       font-weight: 700;
-      font-family: $serif;
+      font-family: $sans-serif;
     }
     
     h5 {
       font-size: 2.6rem;
       font-weight: 700;
-      font-family: $serif;
+      font-family: $sans-serif;
     }
 
     p {
@@ -335,7 +335,7 @@ del {
   border-bottom: 2px solid $green;
   margin-bottom: 30px;
   padding-bottom: 20px;
-  font-family: $serif;
+  font-family: $sans-serif;
 }
 
 .PageNavigation a {
@@ -343,7 +343,7 @@ del {
   width: 33.33333333%;
   float: left;
   margin: 1em 0;
-  font-family: $serif;
+  font-family: $sans-serif;
 }
 
 .PageNavigation .back_home {
@@ -361,7 +361,7 @@ del {
 
 .footer-container{
     background-color: #1b1b25;
-    font-family: $serif;
+    font-family: $sans-serif;
 }
 
 .footer-content {
@@ -373,18 +373,18 @@ del {
 
 footer .disclaimer {
     color: tomato;    
-    font-family: $serif;
+    font-family: $sans-serif;
 }
 
 .copyright, .copyright-link {
     text-align: center;
     color: $green !important;
     font-size: 1.2rem;
-    font-family: $serif;
+    font-family: $sans-serif;
 }
 
 footer .social-links ul {
-    font-family: $serif;
+    font-family: $sans-serif;
     margin-top: 20px;
     display: flex;
     justify-content: center;
@@ -405,7 +405,7 @@ form.main_search {
         border-radius: 0;
         background-color: #fff;
         box-shadow: none;
-        font-family: $serif;
+        font-family: $sans-serif;
     }
 
     button.btn {
