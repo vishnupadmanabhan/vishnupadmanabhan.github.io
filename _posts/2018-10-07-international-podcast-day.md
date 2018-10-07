@@ -31,7 +31,7 @@ Various marketing techniques were discussed among the group especially Dilip and
 
 2. Jugaad promotions like -
     - Whatsapp broadcasts (to contacts but limited to 256 participants) 
-    - Newsletters (utilizing existing newsletters to include links to the podcast) One may have to build a database of their listeners’ email addresses in order to facilitate this or being collecting this data to leverage this medium. A lot of successful media professionals like Srini Rao from the [Unmistakable Creative](https://unmistakablecreative.com/){:target="_blank"}, Zat Rana from [Design Luck](https://designluck.com/){:target="_blank"} and Maria Popova from [Brain Pickings](https://www.brainpickings.org/){:target="_blank"} follow this as an effective way to grow their audience. 
+    - Newsletters (utilizing existing newsletters to include links to the podcast) One may have to build a database of their listeners’ email addresses in order to facilitate this or begin collecting this data to leverage this medium. A lot of successful media professionals like Srini Rao from the [Unmistakable Creative](https://unmistakablecreative.com/){:target="_blank"}, Zat Rana from [Design Luck](https://designluck.com/){:target="_blank"} and Maria Popova from [Brain Pickings](https://www.brainpickings.org/){:target="_blank"} follow this as an effective way to grow their audience. 
     - Word of mouth by patrons of the mindful initiative yoga studio. 
     - Interviewing influencers and sharing with their followers 
     - Transcribing the podcast and making exhaustive show-notes to improve [Google indexing](https://neilpatel.com/blog/google-index/){:target="_blank"}. 
@@ -53,8 +53,8 @@ The second part of the session was lead by Rahul Nair, CEO of [Storiyoh](https:/
 
 Storiyoh is a podcasting social platform that helps in podcast discovery and developing podcasting communities. Rahul touched on the following points:
 
-- The problem with podcast discovery. (There isn’t a podcasting platform that allows you to share what you’re listening on on the same platform. Listeners generally fall back on social media or messaging apps) 
-- The importance of the “Audience of One”. If you aren’t satisfied with your podcast, don’t expect others to follow your work. Rahul was inspirted by veteran podcaster [Srini Rao](https://medium.com/@skooloflife){:target="_blank"}’s book by the [same name](https://amzn.to/2Of9IAM){:target="_blank"}. Srini runs a the [Unmistakable Creative Podcast](https://unmistakablecreative.com/){:target="_blank"} and is a prolific blogger and public speaker.  
+- The problem with podcast discovery. (There isn’t a podcasting platform that allows you to share what you’re listening on the same platform. Listeners generally fall back on social media or messaging apps) 
+- The importance of the “Audience of One”. If you aren’t satisfied with your podcast, don’t expect others to follow your work. Rahul was inspired by veteran podcaster [Srini Rao](https://medium.com/@skooloflife){:target="_blank"}’s book by the [same name](https://amzn.to/2Of9IAM){:target="_blank"}. Srini runs a the [Unmistakable Creative Podcast](https://unmistakablecreative.com/){:target="_blank"} and is a prolific blogger and public speaker.  
 - Storiyoh helps to connect podcast listeners and discover podcasts by looking at what others are listening to. 
     - It enables users who make podcast playlists and would help others find good content. 
     - It also facilitates curation in the form of collections for different categories. Eg: collections for lawyers, students, tech enthusiasts. 
