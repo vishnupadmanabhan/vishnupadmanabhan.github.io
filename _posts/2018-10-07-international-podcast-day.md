@@ -41,7 +41,7 @@ This apart other aspects to improve audience engagement included:
 - Ensuring keywords in title and description of the podcast 
 - Setting up Google My Business for the podcast to update location, add blog posts, videos, 
 - Creating a website for the podcast 
-- [SEO](https://moz.com/beginners-guide-to-seo){:target="_blank"} for the website using keyword research, keyword planner (keyword anywhere plugin for chrome){:target="_blank"} 
+- [SEO](https://moz.com/beginners-guide-to-seo){:target="_blank"} for the website using keyword research, keyword planner (keyword anywhere plugin for chrome) 
 - [ID3 tagging](https://en.wikipedia.org/wiki/ID3){:target="_blank"} of metadata for the audio files of the podcast 
 - [Alexa Skills](https://www.amazon.com/alexa-skills/b?ie=UTF8&node=13727921011){:target="_blank"} 
 - Google Assistant skills 
