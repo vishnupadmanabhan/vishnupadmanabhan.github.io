@@ -5,7 +5,7 @@ excerpt: "Bangalore celebrated the International Podcast Day with a meetup. Here
 banner: https://res.cloudinary.com/vishnupadmanabhan/image/upload/v1538929635/O2Pod/sneaker_small.jpg
 author: "Vishnu"
 date:   2018-10-07 00:01:00
-categories: life
+categories: Podcasting
 comments: true
 ---
 On the eve of International Podcast Day on 30th of September 2018, a bunch of Bangalore podcasters and podcast enthusiasts got together at a meetup organised by O<sub>2</sub>Pod, a collective formed by a bunch of Bangalore based podcasters namely [The Musafir Stories](http://themusafirstories.com/){:target="_blank"}, [The Passion People Podcast](https://audioboom.com/channel/the-passion-people-podcast){:target="_blank"} and [Writer & Geek Show](https://writerandgeek.com/){:target="_blank"}. Thanks to [LetsVenture](https://letsventure.com/){:target="_blank"} for lending us their gorgeous office space for the meet-up.
