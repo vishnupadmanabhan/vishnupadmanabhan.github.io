@@ -23,5 +23,5 @@ gems:
   - jekyll-paginate
 
 permalink: /:title/
-future: false
+future: true
 paginate: 10
