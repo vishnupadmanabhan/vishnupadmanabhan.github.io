@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 <div class="center">
-    <img class="circle responsive-img center" src="https://res.cloudinary.com/vishnupadmanabhan/image/upload/v1538411239/dp.jpg" style="float: left; margin: 5px 20px 5px 0; width: 200px; height: 200px;">
+    <img class="circle responsive-img center" src="https://res.cloudinary.com/vishnupadmanabhan/image/upload/v1550988695/vpkochi.jpg" style="float: left; margin: 5px 20px 5px 0; width: 200px; height: 200px;">
 </div>     
 Hello, I am Vishnu and this is my personal <del>tech</del> blog. A site where I chronicle my <del>coding stuff</del> life and my personal opinions on stuff. I write some other [articles](http://vishnupadmanabhan.com/articles){:target="_blank"} as well where I post about some other stuff. Apparently I share my [personality type](https://www.16personalities.com/profiles/a59bea50e16e3){:target="_blank"} with _Nikola Tesla, Tyrion Lannister, Tom Hanks_ and _Irene Adler_.
 
