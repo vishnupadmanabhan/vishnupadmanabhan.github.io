@@ -173,6 +173,12 @@ p code {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 
+    hr {
+        width: 30%;
+        margin: 50px auto;
+        border-top: 1px solid #606060;
+    }
+
     h1, h2, h3, h4, h5, h6 {
         color: $darkgrey
     }
