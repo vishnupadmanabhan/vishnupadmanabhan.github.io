@@ -3,7 +3,7 @@ name: "vp's cafe"
 title: "vp's cafe"
 description: "While you are here, let's talk some tech!"
 logo: 'assets/images/tlogo.png'
-favicon: 'assets/images/V.png'
+favicon: 'assets/images/favicon.png'
 baseurl: 'https://vishnupadmanabhan.com'
 google_analytics: 'UA-96046394-1'
 disqus: 'neoelemento'
