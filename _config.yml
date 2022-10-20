@@ -3,7 +3,7 @@ name: "vp reviews tech"
 title: "vp reviews tech"
 description: "While you are here, let's talk some tech!"
 logo: 'assets/images/vpreviews.png'
-favicon: 'assets/images/vpreviews.png'
+favicon: 'assets/images/vpr-logo.png'
 baseurl: 'https://vpreviewstech.com'
 google_analytics: 'UA-96046394-1'
 disqus: 'neoelemento'
