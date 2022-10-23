@@ -1,7 +1,7 @@
 # Site
 name: "vp reviews tech"
 title: "vp reviews tech"
-description: "While you are here, let's talk some tech!"
+description: "Tech reviews, without wax!"
 logo: 'assets/images/vpreviews.png'
 favicon: 'assets/images/vpr-logo.png'
 baseurl: 'https://vpreviewstech.com'
