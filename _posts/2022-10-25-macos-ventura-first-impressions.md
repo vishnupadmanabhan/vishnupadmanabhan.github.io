@@ -48,7 +48,7 @@ Apple has some of the best hardware available in the market and even though the 
 
 The continuity camera feature allows  the use of iPhone camera as a webcam for video calling. The result is great quality along with portrait mode etc available to be used on the desktop.
 
-### Weather and Clock
+### 6. Weather and Clock
 Finally we have the weather and clock apps on the desktop with Ventura. It might or might not be of significance, but it is nice to see native apps built into the MacOS for weather and clock.
 
 ![Weather](https://res.cloudinary.com/dqluir0zd/image/upload/v1666768584/blog/weather_vlr6si.jpg)
