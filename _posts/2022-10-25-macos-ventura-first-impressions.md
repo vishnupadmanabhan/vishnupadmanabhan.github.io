@@ -60,7 +60,7 @@ If you work across time zones, having the visibility on the desktop might be a g
 ### Conclusion
 Overall, this is an update with great new features. Especially for someone who spends time on video calls and conferences, haviong access to better video quality via continuity camera might be a massive advantage.
 
-Again it is a personal preference and this seems to be a good direction that the OS is heading to. I would definitely recommend an upgrade. 
+Again, it is a personal preference and this seems to be a good direction that the OS is heading to. I would definitely recommend an upgrade. 
 
 ---
 
