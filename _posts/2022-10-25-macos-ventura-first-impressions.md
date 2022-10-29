@@ -62,6 +62,8 @@ Overall, this is an update with great new features. Especially for someone who s
 
 Again, it is a personal preference and this seems to be a good direction that the OS is heading to. I would definitely recommend an upgrade. 
 
+Are we on a path to OS convergence across Apple devices? Time will tell.
+
 ---
 
 Image Courtesy - [Apple.com](https://apple.com)
