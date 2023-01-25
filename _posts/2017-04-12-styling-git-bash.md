@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Styling Git Bash for Windows"
+title:  Styling Git Bash for Windows
 author: vishnu
-categories: [tech]
+categories: tech
 image: https://images.unsplash.com/photo-1556075798-4825dfaaf498
 tags: featured
 published: false

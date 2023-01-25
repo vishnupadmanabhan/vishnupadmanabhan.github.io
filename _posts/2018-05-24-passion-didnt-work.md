@@ -2,8 +2,7 @@
 layout: post
 title: Passion Didn't Work for Me
 author: vishnu
-categories:
-  - life
+categories: life
 image: 'https://images.unsplash.com/photo-1512248607101-e26c16d28749'
 tags: featured
 published: false
