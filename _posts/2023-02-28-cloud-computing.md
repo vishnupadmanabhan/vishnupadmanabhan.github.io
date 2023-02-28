@@ -6,7 +6,7 @@ author: vishnu
 categories:
   - tech
 image: >-
-  https://unsplash.com/photos/yLDabpoCL3s
+  https://images.unsplash.com/photo-1560732488-6b0df240254a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80
 tags: tech
 published: true
 ---
