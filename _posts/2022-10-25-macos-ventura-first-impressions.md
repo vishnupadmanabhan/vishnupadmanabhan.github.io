@@ -7,7 +7,7 @@ categories:
 image: >-
   https://res.cloudinary.com/dqluir0zd/image/upload/v1666712675/blog/ventura-min_l3lwww.jpg
 tags: apple
-published: true
+published: false
 ---
 Apple released the latest version of MacOS - Ventura a few hours ago and I upgraded my MacBook. I have some thoughts on the first impressions with the upgrade.
 
