@@ -1,7 +1,7 @@
 # Site
 name: "vp reviews tech"
 title: "vp reviews tech"
-description: "Tech reviews, without wax!"
+description: "Without wax!"
 logo: 'assets/images/vpscafe.png'
 favicon: 'assets/images/vpr-logo.png'
 baseurl: 'https://vishnupadmanabhan.github.io'
