@@ -8,7 +8,7 @@ categories:
 image: >-
   https://images.unsplash.com/photo-1639283627510-8cb7418a5b91?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1631&q=80
 tags: macbook
-published: true
+published: false
 ---
 I have been using the MacBook Pro 14' with the M1 Pro chip for just over two months now and I am absolutely blown away by it!
 
