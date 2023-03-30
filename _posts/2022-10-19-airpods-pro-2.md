@@ -8,7 +8,7 @@ categories:
 image: >-
   https://images.unsplash.com/photo-1603351154351-5e2d0600bb77?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2371&q=80
 tags:
-published: true
+published: false
 ---
 When AirPods launched back in 2016, I was on the side of the group which thought that it was a bad idea. I wasn't sure how a totally wireless earbuds could serve my purpose. Also it felt absurd that this product should exist given that it was weird. Yes, I did think that.
 
