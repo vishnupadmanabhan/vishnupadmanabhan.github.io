@@ -27,4 +27,4 @@ In conclusion, moving ahead in life is about finding meaning in your life and wo
 ---
 
 Image Courtesy - [Unsplash.com](https://unsplash.com)
-- [Florian Krumm](https://unsplash.com/@floriankrumm)
+- [David Gavi](https://unsplash.com/@davidgaviphoto)
