@@ -1,5 +1,4 @@
 ---
-published: false
 layout: post
 title: "Moving forward in life"
 author: vishnu
@@ -8,7 +7,7 @@ categories:
 image: >-
   https://images.unsplash.com/photo-1535515384173-d74166f26820?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2670&q=80
 tags: tech
-published: true
+published: false
 ---
 Life is a journey that is full of ups and downs, twists and turns, and unexpected surprises. It's a journey that can take us to the highest of highs and the lowest of lows. Yet, it's in those moments of challenge and struggle that we grow the most and find our true purpose.
 
