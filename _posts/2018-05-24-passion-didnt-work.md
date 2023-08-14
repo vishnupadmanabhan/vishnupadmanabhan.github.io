@@ -6,7 +6,7 @@ categories:
   - life
 image: 'https://images.unsplash.com/photo-1512248607101-e26c16d28749'
 tags: featured
-published: false
+published: true
 ---
 For a while, I considered myself a failure. During my early years in school, I was an average student. I was the class topper in my lower primary school but somehow settled in the middle of the pack as I grew up. But towards my high school, I became a popular kid in the school and was happy with where I was with minor academic hiccups. I say minor, but at the time I felt my world had crashed. More on that later.
 

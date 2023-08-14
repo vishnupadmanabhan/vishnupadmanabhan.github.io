@@ -1,5 +1,4 @@
 ---
-published: false
 layout: post
 title: "Future of Hi-Fi Music Listening"
 author: vishnu
@@ -8,7 +7,7 @@ categories:
 image: >-
   https://images.unsplash.com/photo-1665627178658-59514a84aa26?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2370&q=80
 tags: music
-published: true
+published: false
 ---
 The way we listen to HiFi music is changing.
 

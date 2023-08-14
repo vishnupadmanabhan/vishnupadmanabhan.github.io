@@ -1,5 +1,4 @@
 ---
-published: false
 layout: post
 title: "Diminishing lifespan of electronic devices"
 author: vishnu

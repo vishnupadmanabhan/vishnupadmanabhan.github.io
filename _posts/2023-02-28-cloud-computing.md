@@ -1,5 +1,4 @@
 ---
-published: false
 layout: post
 title: "Cloud is someone else's computer"
 author: vishnu

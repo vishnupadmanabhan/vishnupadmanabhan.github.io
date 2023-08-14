@@ -5,7 +5,7 @@ author: vishnu
 categories: [tech]
 image: https://images.unsplash.com/photo-1556075798-4825dfaaf498
 tags: featured
-published: false
+published: true
 ---
 
 When it comes to the tools I use, I like minimalism. I  like to have the bare minimum of everything and make them look good.  This is one of the reasons though an IDE can be really useful in some  cases, I always stick to code editors like **VSCode** that I currently use.
