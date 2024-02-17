@@ -7,7 +7,7 @@ categories:
 image: >-
   https://images.unsplash.com/photo-1510535043828-3d1edc68071e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2370&q=80
 tags: tech
-published: true
+published: false
 ---
 The lifespan of a typical electronic device these days can be counted in months than in years as it used to be. Gone are the days when you buy a phone and then use if for five years until the speaker stops working and display gives up. No to mention the growing issue of e-waste and environmental degradation. Sale of consumer electronics has been on a tremendous rise since the 2000s and specially during the last one decade. The end of life of a device is no longer determined by its inability to carry out the required tasks but by the arrival of an upgraded device in the market.
 
