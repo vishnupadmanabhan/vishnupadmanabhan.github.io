@@ -7,7 +7,7 @@ categories:
 image: >-
   https://images.unsplash.com/photo-1560732488-6b0df240254a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80
 tags: tech
-published: true
+published: false
 ---
 Cloud computing is one of the most fascinating and revolutionary technologies of our time. It has changed the way we live and work, allowing us to access powerful computing resources and software from anywhere in the world. However, there is a common misconception that cloud computing involves storing data and applications in the sky, as if they were floating on a cloud. In reality, things are not actually in the cloud, but rather in someone else's computer. So, what does cloud computing really mean?
 
