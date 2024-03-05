@@ -122,6 +122,7 @@ Things like `PS1="$PS1"'\[\033[32m\]'` are used to set the colour of the string 
 VSCode has it’s own Git integration, so I do not need my command  promp to show me any git related details like brank or uncommitted files  etc. So I removed the following lines to disable git support. Yes I  know that kind of beats the purpose of “git” bash, but then VSCode  already gives me everything.
 
 ``` Bash
+
     if test -z "$WINELOADERNOEXEC"
     then
         GIT_EXEC_PATH="$(git --exec-path 2>/dev/null)"
