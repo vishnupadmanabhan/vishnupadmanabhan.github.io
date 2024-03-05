@@ -10,7 +10,9 @@ published: true
 
 When it comes to the tools I use, I like minimalism. I  like to have the bare minimum of everything and make them look good.  This is one of the reasons though an IDE can be really useful in some  cases, I always stick to code editors like **VSCode** that I currently use.
 
-Since I mentioned VSCode, I love using the built-in terminal that  ships with it. On Windows, I use Git Bash as integrated terminal within  VSCode. You can add any of the terminals you like by adding any one of  the following statement into your settings file. Js
+Since I mentioned VSCode, I love using the built-in terminal that  ships with it. On Windows, I use Git Bash as integrated terminal within  VSCode. You can add any of the terminals you like by adding any one of  the following statement into your settings file.
+
+``` Bash
 
     // 64-bit cmd if available, otherwise 32-bit
     "terminal.integrated.shell.windows": "C:\\Windows\\sysnative\\cmd.exe"
@@ -21,7 +23,7 @@ Since I mentioned VSCode, I love using the built-in terminal that  ships with i
     // Bash on Ubuntu (on Windows)
     "terminal.integrated.shell.windows": "C:\\Windows\\sysnative\\bash.exe"
     
-    
+```  
 
 This is how normally the git-bash prompt looks like from within VSCode:
 
