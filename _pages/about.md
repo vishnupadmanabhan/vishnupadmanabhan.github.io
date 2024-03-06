@@ -4,7 +4,7 @@ title: Hello
 permalink: /about
 comments: false
 image: >-
-  https://res.cloudinary.com/dqluir0zd/image/upload/v1665481618/blog/blog_banner_e61fa0.jpg
+  https://res.cloudinary.com/neoelemento/image/upload/v1709727686/blog-images/swiss_coffee.jpg
 imageshadow: true
 published: true
 ---
