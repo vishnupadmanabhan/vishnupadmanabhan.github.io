@@ -5,7 +5,7 @@ description: "Without wax!"
 logo: 'assets/images/vpscafe.png'
 favicon: 'assets/images/vpr-logo.png'
 baseurl: 'https://vishnupadmanabhan.com'
-google_analytics: 'UA-96046394-1'
+google_analytics: ''
 disqus: 'neoelemento'
 mailchimp-list: 
 include: ["_pages"]
@@ -56,8 +56,8 @@ kramdown:
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
 adsense: "disabled"
-adsense-data-ad-client: "ca-pub-3412143450191416"
-adsense-data-ad-slot: "1363087678"
+adsense-data-ad-client: ""
+adsense-data-ad-slot: ""
 
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "disabled"
