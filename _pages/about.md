@@ -36,5 +36,5 @@ Hi, I am Vishnu and welcome to my website! I share my thoughts about life, podca
 
 > _Follow the path of the unsafe, independent thinker. Expose your ideas to the dangers of controversy. Speak your mind and fear less the label of ’crack-pot’ than the stigma of conformity. And on issues that seem important to you, stand up and be counted at any cost. - Thomas J. Watson_
 
-<small>Photo by <a href="https://unsplash.com/@dillonjshook?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Dillon Shook</a> on <a href="https://unsplash.com/s/photos/work-from-cafe?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></small>
+<small>Photo by AI</small>
   
