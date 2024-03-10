@@ -11,7 +11,7 @@ mailchimp-list:
 include: ["_pages"]
 permalink: /:title/
 email: vp@vishnupadmanabhan.com
-podcast: 'https://writerandgeek.com'
+podcast: 'https://eplog.media/show/writer-geek'
 
 # Authors
 authors:
