@@ -80,7 +80,7 @@ Another thing about DT990 specifically is that for some, it is a little bit too 
 
 ![Helm Bolt](https://res-4.cloudinary.com/neoelemento/image/upload/q_auto/v1/blog-images/helm_dt990.jpg)
 
-That is about the power of this little pocket rocket. What about the sound? What does it do to your music? To find out, I used it extensively for a few days listening to all kinds of music that I love. Here is the thing, to decide whether you like a device or not, use it to listen to the music you love and not certain "audiophile favourite" track because they generally sound great anywhere you play them.
+That is about the power of this little *pocket rocket*. What about the sound? What does it do to your music? To find out, I used it extensively for a few days listening to all kinds of music that I love. Here is the thing, to decide whether you like a device or not, use it to listen to the music you love and not certain "audiophile favourite" track because they generally sound great anywhere you play them.
 
 Over the past couple of months, I have been listening to the band Filistine a lot. They are a fun band from Germany and I love their album - LoFe. I love the album so much that I paid for the album and brought it off their [Bandcamp page](https://filistine.bandcamp.com/album/lofe) although it is available on Spotify and Tidal.
 
