@@ -1,0 +1,25 @@
+# Build output
+_site/
+
+# Dependencies
+node_modules/
+
+# Pagefind index (generated at build time)
+pagefind/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+npm-debug.log*
+
+# Environment
+.env
+.env.local

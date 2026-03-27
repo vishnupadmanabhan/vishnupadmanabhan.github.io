@@ -1,0 +1,50 @@
+---
+layout: base.njk
+title: Now
+permalink: /now/
+---
+
+<article class="now-page">
+
+  <header class="now-header">
+    <div class="now-header-top">
+      <h1 class="now-title">Now</h1>
+      <span class="now-badge">{% set lastMod = page.inputPath | gitLastModified %}{% if lastMod %}Last updated {{ lastMod }}{% else %}Updated periodically{% endif %}</span>
+    </div>
+    <p class="now-description">A snapshot of what I'm focused on right now. Inspired by <a href="https://nownownow.com/about" target="_blank" rel="noopener">nownownow.com</a>.</p>
+    <div class="now-rule"></div>
+  </header>
+
+  <div class="now-intro">
+    <p>I'm focused on reducing the number of priorities and making sure those are in place before anything else gets added to the list. Less, but better.</p>
+  </div>
+
+  <div class="now-grid">
+
+    <div class="now-item">
+      <div class="now-item-marker">01</div>
+      <div class="now-item-content">
+        <h2 class="now-item-title">Health</h2>
+        <p class="now-item-body">I've been neglecting health for a long time and have finally gone all in — making it my number one priority. Back at the gym, eating healthy. Working on consistency over intensity.</p>
+      </div>
+    </div>
+
+    <div class="now-item">
+      <div class="now-item-marker">02</div>
+      <div class="now-item-content">
+        <h2 class="now-item-title">Creative</h2>
+        <p class="now-item-body">Bringing back some creativity into life. This blog is part of that. A few other projects are underway — more on those later.</p>
+      </div>
+    </div>
+
+    <div class="now-item">
+      <div class="now-item-marker">03</div>
+      <div class="now-item-content">
+        <h2 class="now-item-title">Reading</h2>
+        <p class="now-item-body">Working through my backlog, one book at a time. No pressure, no lists. Currently reading <a href="https://www.goodreads.com/book/show/21.A_Short_History_of_Nearly_Everything">A Short History of Nearly Everything</a> by Bill Bryson</p>
+      </div>
+    </div>
+
+  </div>
+
+</article>
