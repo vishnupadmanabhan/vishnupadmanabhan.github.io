@@ -740,6 +740,8 @@ details[open] .archive-year span:first-child::before {
   border-left: 3px solid var(--amber);
   font-style: italic;
   color: var(--ink-light);
+  font-size: var(--step-0);
+  line-height: 1.7;
 }
 
 .post-body blockquote p {
@@ -748,6 +750,61 @@ details[open] .archive-year span:first-child::before {
 
 .post-body blockquote p:last-child {
   margin-bottom: 0;
+}
+
+/* Suppress drop cap inside blockquotes */
+.post-body blockquote p:first-of-type::first-letter {
+  font-size: inherit;
+  font-weight: inherit;
+  float: none;
+  line-height: inherit;
+  margin: 0;
+  color: inherit;
+}
+
+/* Source blockquote — {.source} class via markdown-it-attrs */
+.post-body blockquote.source {
+  position: relative;
+  margin: 2.5em 0;
+  padding: 0.1em 0 0.1em 1.5rem;
+  border-left: 2px solid var(--amber);
+  font-style: italic;
+  font-size: var(--step-1);
+  color: var(--ink-light);
+  line-height: 1.6;
+}
+
+.post-body blockquote.source p {
+  margin: 0;
+}
+
+/* Citation line — last paragraph acts as attribution */
+.post-body blockquote.source p:last-of-type {
+  display: block;
+  margin-top: 1em;
+  padding-top: 0.75em;
+  font-style: normal;
+  font-family: var(--font-mono);
+  font-size: 0.88rem;
+  font-weight: 400;
+  color: var(--ink-light);
+  letter-spacing: 0.04em;
+  position: relative;
+}
+
+/* Separator line above citation */
+.post-body blockquote.source p:last-of-type::before {
+  content: '';
+  display: block;
+  width: 50%;
+  height: 1px;
+  background: var(--paper-dark);
+  margin-bottom: 0.75em;
+}
+
+/* Italic in citation (e.g. book title) */
+.post-body blockquote.source p:last-of-type em {
+  font-style: italic;
 }
 
 .post-body ul,
