@@ -617,12 +617,17 @@ details[open] .archive-year span:first-child::before {
 }
 
 .post-title {
-  font-size: var(--step-3);
+  font-size: clamp(3rem, 6vw + 1rem, 6rem);
   font-weight: 700;
-  line-height: 1.15;
-  letter-spacing: -0.02em;
+  line-height: 1.05;
+  letter-spacing: -0.03em;
   color: var(--ink);
   margin-bottom: 0.75rem;
+}
+
+.title-accent {
+  font-style: italic;
+  color: var(--amber);
 }
 
 .post-subtitle {
@@ -1225,7 +1230,7 @@ body.search-open { overflow: hidden; }
     padding-right: 1.25rem;
   }
 
-  .post-title { font-size: var(--step-2); }
+  .post-title { font-size: clamp(2.2rem, 7vw, 3.5rem); }
   .home-hero-title { font-size: clamp(2.5rem, 8vw, 4rem); }
   .now-title, .archive-title { font-size: var(--step-3); }
 }

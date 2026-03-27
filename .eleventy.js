@@ -7,6 +7,12 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addFilter("currentYear", () => new Date().getFullYear());
 
+  // Render *word* in titles as accented italic span
+  eleventyConfig.addFilter("accentTitle", (title) => {
+    if (!title) return title;
+    return title.replace(/\*([^*]+)\*/g, '<em class="title-accent">$1</em>');
+  });
+
   // Get last git commit date for a file
   eleventyConfig.addFilter("gitLastModified", (filePath) => {
     try {
