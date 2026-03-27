@@ -4,6 +4,7 @@
   "description": "VP — Personal Blog",
   "scripts": {
     "start": "eleventy --serve",
+    "start:drafts": "DRAFTS=true eleventy --serve",
     "build": "eleventy && npx pagefind --site _site"
   },
   "devDependencies": {

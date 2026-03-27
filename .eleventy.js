@@ -80,15 +80,25 @@ module.exports = function(eleventyConfig) {
   });
 
   // Collections
+  const showDrafts = process.env.DRAFTS === 'true';
+
   eleventyConfig.addCollection("posts", function(collectionApi) {
     return collectionApi.getFilteredByGlob("./posts/*.md")
-      .filter(p => p.data.publish !== false)
+      .filter(p => {
+        if (p.data.publish === false) return false;
+        if (p.data.draft === true && !showDrafts) return false;
+        return true;
+      })
       .reverse();
   });
 
   eleventyConfig.addCollection("postsByYear", function(collectionApi) {
     const posts = collectionApi.getFilteredByGlob("./posts/*.md")
-      .filter(p => p.data.publish !== false)
+      .filter(p => {
+        if (p.data.publish === false) return false;
+        if (p.data.draft === true && !showDrafts) return false;
+        return true;
+      })
       .reverse();
     const byYear = {};
     posts.forEach(post => {

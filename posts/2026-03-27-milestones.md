@@ -3,6 +3,7 @@ title: "Milestone"
 date: 2026-03-27
 description: "For a man to change, call has to come from within"
 image: https://images.unsplash.com/photo-1602769263248-858810cfbcf1
+draft: true
 ---
 Past few years have been a blur. A dazed confusion. Not my best of years. Outwardly a great time, all going good. But the grey matter insside of your head can be funny at times and start misbehaving. I felt that I was coasting through life. Making no decisions and being on autopilot. Especially when it came to my health. Eating whatever is on the table without considering what goes inside. Convincing myself that _tomorrow_ is the day I start. Except that _tomorrow_ never came. Until now.
 
