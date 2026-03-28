@@ -13,6 +13,3 @@ All aspects of life have a shelf life of 5 years in the current world. It is ref
 All other coffee shops have changed a lot. The decor, the seating, the menu. But I go back to the one that did none of that.
 
 It is comfortable.
-
-------------------
-<small>Subscribe to my blog via [email](/subscribe/) or [RSS feed](/feed/).</small>

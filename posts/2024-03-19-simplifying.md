@@ -2,7 +2,7 @@
 title: "Simplifying"
 date: 2024-03-19
 ---
-
+_Update 28/03/2026: I have since moved to self hosting my blog on a different platform, purely for fun of coding._
 
 I have had a blog in some form or the other on this domain and a few other domains for about the past 14 years. But In each of those iterations, I have made things complicated to the extent that it seemed like a chore to write articles for the blog. 
 
@@ -19,5 +19,3 @@ I have always been a fan of [Derek Sivers](https://sive.rs) and have admired his
 Following this philosophy, I have decided to move my blog to be hosted on [Bear ʕ•ᴥ•ʔ](https://bearblog.dev/). I love the simplicity here and have decided to stay for a while since [Herman promises](https://herman.bearblog.dev/building-software-to-last-forever/), this will stay here forever!
 
 So, here it goes. A simplified blog and an internet home.
-
-<small>Subscribe to my blog via [email](/subscribe/) or [RSS feed](/feed/).</small>

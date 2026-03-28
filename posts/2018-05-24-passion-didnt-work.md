@@ -65,5 +65,3 @@ If you are in the process of finding your passion, you must prepare yourself to 
 Finally, in my early thirties, I found my passion, yes it has been promoted from interest to passion - podcasting. I absolutely love my day job, but podcasting defines me. It is something I do being myself. It is something I am willing to walk over fire (being overly dramatic). Yes, there are days where I feel de-motivated to record or research, but with a little help from my brother and my willpower, we soldier through the situation.
 
 There are days when I feel grumpy before a recording, but the moment we finish recording, I feel accomplished and I love it! This is exactly what passion is. I might find another passion down the line like I like coffee. I learned to brew my own coffee, but at this stage, it is just an interest and it might just go away. I’ll give it time and see if it stays. Now that is how I decide what my passion is. Passion didn’t work for me before, but now I understand the science behind it - not everything you love is your passion.
-
-<small>Subscribe to my blog via [email](/subscribe/) or [RSS feed](/feed/).</small>

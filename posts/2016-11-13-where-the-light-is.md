@@ -21,6 +21,3 @@ To be frank, initially, I wasn’t really too interested. But as days went by an
 It’s true what they say, there is a John Mayer song for every situation in life. I can relate to that very much. So for now, the music I love to listen is his music. I know this isn’t just a passing phase because I have been here for quite a while and not felt once like moving on. I can listen to his songs on repeat and still feel fresh. If there is a playlist that I would love to listen as I drive down the sunset, it will be a collection of my favourite John Mayer songs.
 
 Finally, I have been musically enlightened.
-
-------------------
-<small>Subscribe to my blog via [email](/subscribe/) or [RSS feed](/feed/).</small>
