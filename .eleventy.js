@@ -37,6 +37,7 @@ module.exports = function(eleventyConfig) {
   // Passthrough
   eleventyConfig.addPassthroughCopy("css");
   eleventyConfig.addPassthroughCopy("assets");
+  eleventyConfig.addPassthroughCopy("favicon.svg");
 
   // Date filters
   eleventyConfig.addFilter("dateDisplay", (date) => {
