@@ -1,11 +1,10 @@
 ---
-title: "Breathing Room"
-date: 2025-10-04
-description: "A reminder that for introverts, solitude isn’t indulgence—it’s survival."
+title: Breathing Room
+description: A reminder that for introverts, solitude isn’t indulgence—it’s survival.
+date: 2025-10-04T00:00:00.000Z
 image: https://images.unsplash.com/photo-1666796143743-01c8fbe5b9f3
+draft: true
 ---
-
-
 There’s a thing nobody tells you about being an introvert. It’s not just that you “like being alone.” That sounds optional, like a quirky preference, the way some people like pineapple on pizza. No. It’s more like oxygen. If I don’t get enough of it, I choke.
 
 People mistake this for shyness, or worse, arrogance. As if I don’t want to be around them. But it’s not about them. It’s about me, gasping under the weight of too much conversation, too much noise, too many expectations pressing in at once. I smile, I nod, I play the part, but inside my body is screaming: Get me out. I need space.
