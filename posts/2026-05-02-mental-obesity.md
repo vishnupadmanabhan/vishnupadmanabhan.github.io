@@ -5,9 +5,9 @@ date: '2026-05-02'
 image: https://images.unsplash.com/photo-1495753379358-73c76ccd644b
 draft: false
 ---
-Yesterday, I unsubscribed from over a hundred YouTube channels.
+Yesterday, I unsubscribed from over a hundred YouTube channels. One by one, asking myself: does this still matter? Most didn't. Tech channels I'd followed out of habit. Creators I'd watched once and never again. Videos that felt urgent at the time and now just cluttered the feed. 
 
-One by one, asking myself: does this still matter? Most didn't. Tech channels I'd followed out of habit. Creators I'd watched once and never again. Videos that felt urgent at the time and now just cluttered the feed. When I was done, I had five channels left. All of them about writing.
+When I was done, I had five channels left. All of them about writing.
 
 The feed looked almost empty.
 
