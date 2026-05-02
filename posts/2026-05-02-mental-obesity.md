@@ -1,5 +1,5 @@
 ---
-title: Mental Obesity Crisis
+title: The *Mental Obesity* Crisis
 description: On trimming down everything that is unnecessary from your mental diet
 date: '2026-05-02'
 image: https://images.unsplash.com/photo-1495753379358-73c76ccd644b
