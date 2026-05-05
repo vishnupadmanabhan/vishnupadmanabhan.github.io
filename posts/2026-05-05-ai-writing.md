@@ -2,7 +2,7 @@
 title: Writing using *AI and LLMs*
 description: On using AI to augment writing in your voice
 date: '2026-05-05'
-image: https://images.unsplash.com/photo-1495753379358-73c76ccd644b
+image: https://images.unsplash.com/photo-1591696331111-ef9586a5b17a
 draft: false
 ---
 Artificial Intelligence slop is everywhere now. You don't need a detector. A few sentences in, you know. I fell into this trap early. Writing emails with AI, watching the output land flat and mechanical. While the phrasing and the structure was fine, and none of it sounded like me.
