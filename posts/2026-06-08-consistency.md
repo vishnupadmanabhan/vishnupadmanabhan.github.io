@@ -2,7 +2,7 @@
 title: On *Discipline* and *Consistency*
 description: A little note to self on discipline and consistency
 date: '2026-06-08'
-image: https://images.unsplash.com/photo-1541167760496-1628856ab772
+image: https://images.unsplash.com/photo-1573320286044-b43a4168fb40
 draft: false
 ---
 This is a post that serves as a little note to myself. A reminder that I can do things. That I have to do things — make things. A reminder that I need to stay consistent and disciplined if I want to get anywhere close to the person I always wished to be. This is a reminder that time is ticking.
